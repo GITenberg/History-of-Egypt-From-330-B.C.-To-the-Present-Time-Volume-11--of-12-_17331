@@ -12,6 +12,7 @@ Title: History Of Egypt From 330 B.C. To The Present Time, Volume 11 (of 12)
 Author: S. Rappoport
 
 Release Date: December 17, 2005 [EBook #17331]
+Last Updated: September 8, 2016
 
 Language: English
 
@@ -70,11 +71,11 @@ ARAB INVASION AND THE SPREAD OF MUHAMMEDANISM--THE ARAB DYNASTIES._
 
 _Augustus remodels the government of Egypt--A new calendar
 introduced--Egypt surveyed--Dissension between Jews and Greeks at
-Alexandria--Strabo's visit--The Egyptian religion at Rome--Wise
+Alexandria--Strabo’s visit--The Egyptian religion at Rome--Wise
 administration of Tiberius--The rise of the Therapeutæ--Lake
 Mæris destroyed--The origin of Chemistry--The fable of the
 Phoenix--Christianity introduced--Fiscal reforms under Galba--Vespasian
-in Egypt--Fall of Jerusalem--The Nile Canal restored--Hadrian's voyage
+in Egypt--Fall of Jerusalem--The Nile Canal restored--Hadrian’s voyage
 up the Nile--Death of Antinous--Christians and Gnostics--Astrology and
 Astronomy--Roman roads in Egypt--Commerce and Sports--The Growth
 of Christianity--Severus visits Egypt--The massacre of the
@@ -96,7 +97,7 @@ Library--Pagan and Christian literature--Story of Hypatia--The Arabs
 defeat the Romans--The Koptic New Testament--Egypt separated from
 Rome--The Council of Chalcedon--Paganism restored in Upper Egypt--The
 Henoticon--The writings of Hierocles--Relations with Persia--Inroads of
-the Arabs--Justinian's fiscal reforms--Coinage restored--The Persians
+the Arabs--Justinian’s fiscal reforms--Coinage restored--The Persians
 enter Egypt. The Life of Muhammed--Amr conquers Egypt--The legend of
 Omar and the Great Library--The founding of Fostât--The Christians
 taxed--Muhammedan oppression in Egypt--The Ommayad and Abbasid
@@ -123,7 +124,7 @@ Augustus began his reign in Egypt in B.C. 30 by ordering all the statues
 of Antony, of which there were more than fifty ornamenting the various
 public buildings of the city, to be broken to pieces; and it is said
 he had the meanness to receive a bribe of one thousand talents from
-Archibus, a friend of Cleopatra, that the queen's statues might be
+Archibus, a friend of Cleopatra, that the queen’s statues might be
 left standing. It seems to have been part of his kingcraft to give the
 offices of greatest trust to men of low birth, who were at the same time
 well aware that they owed their employments to their seeming want of
@@ -138,7 +139,7 @@ fiction, these equestrian prefects were answerable for their conduct to
 nobody but the emperor on a petition, and they could not be sued at law
 before the senate for their misdeeds. But he made an exception in the
 case of Egypt. While on the one hand in that province he gave to the
-prefect's edicts the force of law, on the other he allowed him to be
+prefect’s edicts the force of law, on the other he allowed him to be
 cited before the senate, though appointed by himself. The power thus
 given to the senate they never ventured to use, and the prefect of Egypt
 was never punished or removed but by the emperor. Under the prefect was
@@ -153,7 +154,7 @@ judge, the prefect of the night, and the _Exegetes_, or interpreter of
 the Egyptian law, who was allowed to wear a purple robe like a Roman
 magistrate. But these Egyptian magistrates were never treated as
 citizens; they were barbarians, little better than slaves, and only
-raised to the rank of the emperor's freedmen.
+raised to the rank of the emperor’s freedmen.
 
 Augustus showed not a little jealousy in the rest of the laws by which
 his new province was to be governed. While other conquered cities
@@ -170,15 +171,15 @@ of Augustus, this was still strictly enforced.
 Among other changes then brought in by the Romans was the use of a fixed
 year in all civil reckonings. The Egyptians, for all the common purposes
 of life, called the day of the heliacal rising of the dogstar, about our
-18th of July, their new year's day, and the husbandman marked it with
+18th of July, their new year’s day, and the husbandman marked it with
 religious ceremonies as the time when the Nile began to overflow; while
-for all civil purposes, and dates of kings' reigns, they used a year of
+for all civil purposes, and dates of kings’ reigns, they used a year of
 three hundred and sixty-five days, which, of course, had a movable
-new year's day. But by the orders of Augustus all public deeds were
+new year’s day. But by the orders of Augustus all public deeds were
 henceforth dated by the new year of three hundred and sixty-five days
 and a quarter, which was named, after Julius Cæsar, the Julian year. The
 years from B.C. 24 were made to begin on the 29th of August, the day
-on which the movable new year's day then happened to fall, and were
+on which the movable new year’s day then happened to fall, and were
 numbered from the year following the last of Cleopatra, as from the
 first year of the reign of Augustus. But notwithstanding the many
 advantages of the Julian year, which was used throughout Europe for
@@ -186,7 +187,7 @@ sixteen centuries, till its faultiness was pointed out by Pope Gregory
 XIII., the Egyptian astronomers and mathematicians distrusted it from
 the first, and chose to stick to their old year, in which there could
 be no mistake about its length. Thus there were at the same time three
-years and three new year's days in use in Egypt: one about the 18th
+years and three new year’s days in use in Egypt: one about the 18th
 of July, used by the common people; one on the 29th of August, used by
 order of the emperor; and one movable, used by the astronomers.
 
@@ -205,7 +206,7 @@ him those portions of his kingdom which Antony had given to Cleopatra.
 Augustus received him as a friend; gave him back the territory which
 Antony had taken from him, and added the province of Samaria and the
 free cities on the coast. He also gave to him the body of four hundred
-Gauls, who formed part of the Egyptian army and had been Cleopatra's
+Gauls, who formed part of the Egyptian army and had been Cleopatra’s
 bodyguard. He thus removed from Alexandria the last remains of the
 Gallic mercenaries, of whom the Ptolemies had usually had a troop in
 their service.
@@ -217,11 +218,11 @@ and devoutly added a golden crown and a garland of flowers to the other
 ornaments on the sarcophagus of the Macedonian. But he would take no
 pains to please either the Alexandrians or Egyptians; he despised them
 both. When asked if he would not like to see the Alexandrian monarchs
-lying in their mummy-cases in the same tomb, he answered: "No, I came to
-see the king, not dead men," His contempt for Cleopatra and her father
+lying in their mummy-cases in the same tomb, he answered: “No, I came to
+see the king, not dead men,” His contempt for Cleopatra and her father
 made him forget the great qualities of Ptolemy Soter. So when he was
 at Memphis he refused to humour the national prejudice of two thousand
-years' standing by visiting the bull Apis. Of the former conquerors,
+years’ standing by visiting the bull Apis. Of the former conquerors,
 Cambyses had stabbed the sacred bull, Alexander had sacrificed to it;
 had Augustus had the violent temper of either, he would have copied
 Cambyses. The Egyptians always found the treatment of the sacred bull a
@@ -259,7 +260,7 @@ Cleopatra and Antony.
 Augustus threatened a severe punishment to the Alexandrians in the
 building of a new capital. Only four miles from the Canopic or eastern
 gate of Alexandria he laid out the plan of his new city of Meopolis, on
-the spot where he had routed Mark Antony's forces. Here he began
+the spot where he had routed Mark Antony’s forces. Here he began
 several large temples, and removed to them the public sacrifices and the
 priesthood from the temples of Alexandria. But the work was carried
 no farther, and soon abandoned; and the only change made by it in
@@ -280,7 +281,7 @@ misunderstood, or soon forgotten, the terms of his appointment. He set
 up statues of himself in the cities of Egypt, and, copying the kings
 of the country, he carved his name and deeds upon the pyramids. On this
 Augustus recalled him, and he killed himself to avoid punishment. The
-emperor's wish to check the tyranny of the prefects and tax-gatherers
+emperor’s wish to check the tyranny of the prefects and tax-gatherers
 was strongly marked in the case of the champion fighting-cock. The
 Alexandrians bred these birds with great care, and eagerly watched their
 battles in the theatre. A powerful cock, that had hitherto slain all
@@ -330,8 +331,8 @@ than one-fourth part of the city, and the suburbs reached even beyond
 the Mareotic Lake. Among the chief buildings were the Soma, which held
 the bodies of Alexander and of the Ptolemies; the court of justice;
 the museum of philosophy, which had been rebuilt since the burning by
-Cæsar's soldiers; the exchange, crowded with merchants, the temple of
-Neptune, and Mark Antony's fortress, called the Timonium, on a point of
+Cæsar’s soldiers; the exchange, crowded with merchants, the temple of
+Neptune, and Mark Antony’s fortress, called the Timonium, on a point of
 land which jutted into the harbour; the Cæsarium, or new palace; and the
 great temple of Serapis, which was on the western side of the city, and
 was the largest and most ornamented of all these buildings. Farther off
@@ -349,7 +350,7 @@ fringed with vineyards, which bore the famed wine of the same name,
 and which formed a pleasant contrast with the burning whiteness of the
 desert beyond. The canal from the lake to the Nile marked its course
 through the plain by the greater freshness of the green along its banks.
-In the distance were the new buildings of Augustus' city of Nicopolis.
+In the distance were the new buildings of Augustus’ city of Nicopolis.
 The arts of Greece and the wealth of Egypt had united to adorn the
 capital of the Ptolemies. Heliopolis, the ancient seat of Egyptian
 learning, had never been wholly repaired since its siege by Cambyses,
@@ -378,7 +379,7 @@ over the Arabian hills, first shone upon its face; but this inquiring
 traveller could not make up his mind whether the music came from the
 statue, or the base, or the people around it. He ended his tour with
 watching the sunshine at the bottom of the astronomical well at Syênê,
-which, on the longest day, is exactly under the sun's northern edge, and
+which, on the longest day, is exactly under the sun’s northern edge, and
 with admiring the skill of the boatmen who shot down the cataracts in
 their wicker boats, for the amusement of the Roman generals.
 
@@ -398,8 +399,8 @@ and war the only employment worthy of men; and who made frequent hasty
 inroads into Nubia, and sometimes into Egypt. They fought for plunder,
 not for conquest, and usually retreated as quickly as they came,
 with such booty as they laid their hands on. To use words which were
-proverbial while the Nile swarmed with crocodiles, "They did as the dogs
-do, they drank and ran away;" and the Romans found it necessary to place
+proverbial while the Nile swarmed with crocodiles, “They did as the dogs
+do, they drank and ran away;” and the Romans found it necessary to place
 a body of troops near the cataracts of Syênê to stop their marching
 northward and laying waste the Thebaid. While the larger part of the
 Roman legions was withdrawn into Arabia on an unsuccessful quest for
@@ -426,7 +427,7 @@ of war, the Romans judged them to be. Those nearest to the Egyptian
 frontiers, the Troglodyte and Blemmyes, were unsettled, wandering, and
 plundering; but the inhabitants of Meroë were of a more civilised race.
 The Jews had settled in southern Ethiopia in large numbers, and for
-a long time; Solomon's trade had made them acquainted with Adule and
+a long time; Solomon’s trade had made them acquainted with Adule and
 Auxum; some of them were employed in the highest offices, and must have
 brought with them the arts of civilised life. A few years later (Acts
 VIII. 27) we meet with a Jewish eunuch, the treasurer of Queen Candace,
@@ -441,8 +442,8 @@ upon the foot of the musical statue of Amenhôthes, to let the world know
 the extent of his travels, has helped to prove that the Roman government
 of the country was carried on in the Greek language. The coins often
 bear the eagle and thunderbolt on one side, while on the other is the
-emperor's head, with his name and titles; and, after a few years, they
-are all dated with the year of the emperor's reign. In the earliest he
+emperor’s head, with his name and titles; and, after a few years, they
+are all dated with the year of the emperor’s reign. In the earliest he
 is styled a Son of God, in imitation of the Egyptian title of Son of the
 Sun. After Egypt lost its liberty, we no longer find any gold coinage in
 the country; that metal, with everything else that was most costly, was
@@ -501,14 +502,14 @@ the holy Osiris.
 Egypt felt no change on the death of Augustus. The province was well
 governed during the whole of the reign of Tiberius, and the Alexandrians
 completed the beautiful temple to his honour, named the Sebaste, or
-Cæsar's Temple. It stood by the side of the harbour, and was surrounded
+Cæsar’s Temple. It stood by the side of the harbour, and was surrounded
 with a sacred grove. It was ornamented with porticoes, and fitted up
 with libraries, paintings, and statues, and was the most lofty building
 in the city. In front of this temple they set up two ancient obelisks,
 which had been made by Thutmosis III. and carved by Ramses II., and
 which, like the other monuments of the Theban kings, have outlived
 all the temples and palaces of their Greek and Roman successors. These
-obelisks are now generally known as "Cleopatra's Needles." One of them,
+obelisks are now generally known as “Cleopatra’s Needles.” One of them,
 in 1878, was taken to London and set up on the Thames Embankment; the
 other was soon afterward brought to New York, and is now in Central Park
 in that city. It is sixty-seven feet high to its sharpened apex, and
@@ -522,9 +523,9 @@ The harsh justice with which Tiberius began his reign was at Rome soon
 changed into a cruel tyranny; but in the provinces it was only felt as
 a check to the injustice of the prefects. On one occasion, when Æmilius
 Rectus sent home from Egypt a larger amount of taxes than was usual,
-he hoped that his zeal would be praised by Tiberius. But the emperor's
-message to the prefect was as stern as it was humane: "I should wish my
-sheep to be sheared, but not to be flayed." On the death of one of
+he hoped that his zeal would be praised by Tiberius. But the emperor’s
+message to the prefect was as stern as it was humane: “I should wish my
+sheep to be sheared, but not to be flayed.” On the death of one of
 the prefects, there was found among his property at Rome a statue of
 Menelaus, carved in Ethiopian obsidian, which had been used in the
 religious ceremonies in the temple of Heliopolis, and Tiberius returned
@@ -586,7 +587,7 @@ to eat, but unfavourable if he looked another way. When Germanicus
 accordingly held out a handful of grain, the well-fed animal turned his
 head sullenly towards the other side of his stall; and on the death of
 this young prince, which shortly followed, the Egyptians did not
-forget to praise the bull's foresight. This blameless and seemingly
+forget to praise the bull’s foresight. This blameless and seemingly
 praiseworthy visit of Germanicus did not, however, escape the notice
 of the jealous Tiberius. He had been guilty of gaining the love of the
 people by walking about without guards, in a plain Greek dress, and of
@@ -695,7 +696,7 @@ reign, altogether stopped the Alexandrian mint, as well as those of the
 other cities which occasionally coined; and after this year we find no
 more coins, but the few with the head and name of Augustus Cæsar, which
 seem hardly to have been meant for money, but to commemorate on some
-peculiar occasions the emperor's adoption by his stepfather. The Nubian
+peculiar occasions the emperor’s adoption by his stepfather. The Nubian
 gold mines were probably by this time wholly deserted; they had been so
 far worked out as to be no longer profitable. For fifteen hundred years,
 ever since Ethiopia was conquered by Thebes, wages and prices had been
@@ -706,7 +707,7 @@ prices were higher in Rome.
 
 It seems to have been usual to change the prefect of Egypt every few
 years, and the prefect-elect was often sent to Alexandria to wait
-till his predecessor's term of years had ended. Thus in this reign of
+till his predecessor’s term of years had ended. Thus in this reign of
 twenty-three years Æmilius Rectus was succeeded by Vetrasius Pollio;
 and on his death Tiberius gave the government to his freedman Iberus.
 During the last five years Egypt was under the able but stern government
@@ -723,7 +724,7 @@ Egyptians.
 On the death of Tiberius, in A.D. 37, the old quarrel again broke out
 between Jews and Greeks. The Alexandrians were not slow in learning the
 feelings of his successor, Caius, or Caligula, towards the Jews, nor
-in turning against them the new law that the emperor's statue should
+in turning against them the new law that the emperor’s statue should
 be honoured in every temple of the empire. They had very unwillingly
 yielded a half-obedience to the law of Augustus that the Jews should
 still be allowed the privileges of citizenship; and, as soon as they
@@ -741,14 +742,14 @@ seen Egypt before, on his way to Rome, and he meant to make no stay
 there; but, though he landed purposely after dark, and with no pomp or
 show, he seems to have raised the anger of the prefect Flaccus, who felt
 jealous at any man of higher rank than himself coming into his province.
-The Greeks fell into the prefect's humour, and during the stay of
+The Greeks fell into the prefect’s humour, and during the stay of
 Agrippa in Alexandria they lampooned him in songs and ballads, of which
 the raillery was not of the most delicate kind. They mocked him by
 leading about the streets a poor idiot dressed up with a paper crown and
 a reed for a sceptre, in ridicule of his rather doubtful right to the
 style of royalty.
 
-As these insults towards the emperor's friend passed wholly unchecked
+As these insults towards the emperor’s friend passed wholly unchecked
 by the prefect, the Greeks next assaulted the Jews in the streets and
 market-place, attacked their houses, rooted up the groves of trees
 around their synagogues, and tore down the decree by which the
@@ -783,9 +784,9 @@ emperor, or to send an embassy to Rome to make known their grievances.
 But the Jewish King Agrippa, who was on his way from Rome to his
 kingdom, forwarded to Caligula the complaints of his countrymen, the
 Jews, with an account of the rebellious state of Alexandria. The riots,
-it is true, had been wholly raised by the prefect's zeal in setting up
-the emperor's statue in the synagogues to be worshipped by the Jews, and
-in carrying into effect the emperor's decree; but, as he had not been
+it is true, had been wholly raised by the prefect’s zeal in setting up
+the emperor’s statue in the synagogues to be worshipped by the Jews, and
+in carrying into effect the emperor’s decree; but, as he had not been
 able to keep his province quiet, it was necessary that he should
 be recalled, and punished for his want of success. To have found it
 necessary to call out the troops was of course a fault in a governor;
@@ -801,7 +802,7 @@ cohort quietly into the palace, into the very room where Flaccus was
 sitting at table; and the first tidings that he heard of his government
 being disapproved of in Rome was his finding himself a prisoner in his
 own palace. The friends stood motionless with surprise, the centurion
-produced the emperor's order for what he was doing, and as no resistance
+produced the emperor’s order for what he was doing, and as no resistance
 was attempted all passed off quietly; Flaccus was hurried on board the
 vessel then at anchor in the harbour on the same evening and immediately
 taken to Rome.
@@ -828,10 +829,10 @@ the Jews of not worshipping the statue of the emperor, and to argue that
 they had no right to the same privileges of citizenship with those who
 boasted of their Macedonian blood. But, as the Jews did not deny the
 charge that was brought against them, Caligula would hear nothing that
-they had to say; and Philo withdrew with the remark, "Though the emperor
-is against us, God will be our friend."
+they had to say; and Philo withdrew with the remark, “Though the emperor
+is against us, God will be our friend.”
 
-We learn the sad tale of the Jews' suffering under Caligula from the
+We learn the sad tale of the Jews’ suffering under Caligula from the
 pages of their own historian only. But though Philo may have felt and
 written as one of the sufferers, his truth is undoubted. He was a man
 of unblemished character, and the writer of greatest learning and of the
@@ -847,11 +848,11 @@ Egyptians. According to the Eastern proverb every word in a wise book
 has seventy-two meanings; and this mode of interpretation was called
 into use by the necessity which the Jews felt of making the Old
 Testament speak a meaning more agreeable to their modern views of
-religion. In Philo's speculative theology he seems to have borrowed less
+religion. In Philo’s speculative theology he seems to have borrowed less
 from Moses than from the abstractions of Plato, whose shadowy hints he
 has embodied in a more solid form. He was the first Jewish writer
 that applied to the Deity the mystical notion of the Egyptians, that
-everything perfect was of three parts. Philo's writings are valuable as
+everything perfect was of three parts. Philo’s writings are valuable as
 showing the steps by which the philosophy of Greece may be traced
 from the writings of Plato to those of Justin Martyr and Clemens
 Alexandrinus. They give us the earliest example of how the mystical
@@ -874,8 +875,8 @@ city. He had studied under Didymus and Apollonius and Euphranor, and was
 one of the most laborious of the grammarians and editors of Homer. All
 his writings are now lost. Some of them were attacks upon the Jews and
 their religion, calling in question the truth of the Jewish history
-and the justice of that nation's claim to high antiquity; and to these
-attacks we owe Josephus' _Answer_, in which several valuable fragments
+and the justice of that nation’s claim to high antiquity; and to these
+attacks we owe Josephus’ _Answer_, in which several valuable fragments
 of history are saved by being quoted against the pagans in support of
 the Old Testament. One of his works was his _Ægyptiaca_, an account of
 what he thought most curious in Egypt. But his learned trifling is now
@@ -903,13 +904,13 @@ the Ptolemies in his travels through Greece and Asia Minor by the
 inscriptions remaining to his honour. The citizens of Xanthus in Lycia
 set up a monument to him; and at Athens his statue was placed beside
 that of Philadelphus in the gymnasium of Ptolemy, near the temple of
-Theseus, where he was honoured as of founder's kin. He was put to death
+Theseus, where he was honoured as of founder’s kin. He was put to death
 by Caligula. Drusilla, another grandchild of Cleopatra and Antony,
 married Antonius Felix, the procurator of Judæa, after the death of his
 first wife, who was also named Drusilla. These are the last notices that
 we meet with of the royal family of Egypt.
 
-As soon as the news of Caligula's death (A.D. 41) reached Egypt, the
+As soon as the news of Caligula’s death (A.D. 41) reached Egypt, the
 joy of the Jews knew no bounds. They at once flew to arms to revenge
 themselves on the Alexandrians, whose streets were again the seat of
 civil war. The governor did what he could to quiet both parties, but
@@ -961,7 +962,7 @@ would not have gained.
 
 Under the government of Claudius the Egyptians were again allowed to
 coin money; and in his first year begins that historically important
-series in which every coin is dated with the year of the emperor's
+series in which every coin is dated with the year of the emperor’s
 reign. The coins of the Ptolemies were strictly Greek in their
 workmanship, and the few Egyptian characters that we see upon them are
 so much altered by the classic taste of the die-engraver that we hardly
@@ -973,8 +974,8 @@ the service they render to the historian.
 
 It was in this reign that the route through Egypt to India first became
 really known to the Greeks and Romans. The historian Pliny, who died in
-79 A.D., has left us a contemporary account of these early voyages. "It
-will not be amiss," he says in his _Natural History_, "to set forth the
+79 A.D., has left us a contemporary account of these early voyages. “It
+will not be amiss,” he says in his _Natural History_, “to set forth the
 whole of the route from Egypt, which has been stated to us of late, upon
 information on which reliance may be placed and is here published for
 the first time. The subject is one well worthy of our notice, seeing
@@ -983,13 +984,13 @@ and fifty millions of sesterces [or two million dollars], giving back
 her own wares in exchange, which are sold among us at fully one hundred
 times their cost price.
 
-"Two miles distant from Alexandria is the town of Heliopolis. The
+“Two miles distant from Alexandria is the town of Heliopolis. The
 distance thence to Koptos, up the Nile, is three hundred and eight
 miles; the voyage is performed, when the Etesian winds are blowing, in
 twelve days. From Koptos the journey is made with the aid of camels,
 stations being arranged at intervals for the supply of fresh water. The
 first of these stations is called Hydreuma, and is distant twenty-two
-miles; the second is situate on a mountain at a distance of one day's
+miles; the second is situate on a mountain at a distance of one day’s
 journey from the last; the third is at a second Hydreuma, distant from
 Koptos ninety-five miles; the fourth is on a mountain; the next to that
 is another Hydreuma, that of Apollo, and is distant from Koptos one
@@ -1006,7 +1007,7 @@ travelled by night, on account of the extreme heat, the day being spent
 at the stations; in consequence of which it takes twelve days to perform
 the whole journey from Koptos to Berenicê.
 
-"Passengers generally set sail at midsummer before the rising of the
+“Passengers generally set sail at midsummer before the rising of the
 Dog-star, or else immediately after, and in about thirty days arrive
 at Ocelis in Arabia, or else at Cane, in the region which bears
 frankincense. To those who are bound for India, Ocelis is the best place
@@ -1018,7 +1019,7 @@ frequent its vicinity, where they occupy a place, Mtrias; nor, in fact,
 is it very rich in articles of merchandise. Besides, the roadstead for
 shipping is a considerable distance from the shore, and the cargoes
 have to be conveyed in boats, either for loading or discharging. At the
-moment that I am writing these pages," continues Pliny, "the name of
+moment that I am writing these pages,” continues Pliny, “the name of
 the king of the place is Cælobotras. Another part, and a much more
 convenient one, is that which lies in the territory of the people called
 Neacyndi, Barace by name. Here King Pandian used to reign, dwelling at a
@@ -1033,7 +1034,7 @@ Tybus, which is our December, or, at all events, before the sixth day of
 the Egyptian month Mechir, the same as our ides of January: if they do
 this, they can go and return in the same year. They set sail from
 India with a south-east wind, and, upon entering the Red Sea, catch the
-south-west or south."
+south-west or south.”
 
 The places on the Indian coast which the Egyptian merchant vessels then
 reached are verified from the coins found there; and as we know the
@@ -1279,7 +1280,7 @@ the emperor was under the tutorship of the philosopher Seneca, became in
 Rome proverbial for good government, and on the coinage we see marks of
 Egypt being equally well treated. In the third year we see on a coin the
 queen sitting on a throne with the word _agreement_, as if to praise
-the young emperor's good feeling in following the advice of his mother
+the young emperor’s good feeling in following the advice of his mother
 Agrippina. On another the emperor is styled the young good genius, and
 he is represented by the sacred basilisk crowned with the double crown
 of Egypt. The new prefect, Balbillus, was an Asiatic Greek, and no doubt
@@ -1301,7 +1302,7 @@ their city. But if they had really hoped for his visit as a pleasure,
 they must have thought it a danger escaped when they learned his
 character; they must have been undeceived when the prefect Cæcinna
 Tuscus was punished with banishment for venturing to bathe in the bath
-which was meant for the emperor's use if he had come on his projected
+which was meant for the emperor’s use if he had come on his projected
 visit.
 
 During the first century and a half of Roman sway in Egypt the school
@@ -1347,11 +1348,11 @@ Christianity was first brought into Egypt by the Evangelist Mark, the
 disciple of the Apostle Peter. Many were already craving for religious
 food more real than the old superstitions. The Egyptian had been shaken
 in his attachment to the sacred animals by Greek ridicule. The Greek had
-been weakened in his belief of old Homer's gods by living with men
+been weakened in his belief of old Homer’s gods by living with men
 who had never heard of them. Both were dissatisfied with the scheme of
 explaining the actions of their gods by means of allegory. The crumbling
 away of the old opinions left men more fitted to receive the new
-religion from Galilee. Mark's preaching converted crowds in Alexandria;
+religion from Galilee. Mark’s preaching converted crowds in Alexandria;
 but, after a short stay, he returned to Rome, in about the eleventh
 year of this reign, leaving Annianus to watch over the growing church.
 Annianus is usually called the first bishop of Alexandria; and Eusebius,
@@ -1380,13 +1381,13 @@ whose deeds and opinions are seldom mentioned in history; and we may
 readily believe the scornful reproach of the unbelievers, that it was
 chiefly received by the unfortunate, the unhappy, the despised, and the
 sinful. When the white-robed priestesses of Ceres carried the sacred
-basket through the streets of Alexandria, they cried out, "Sinners away,
-or keep your eyes to the ground; keep your eyes to the ground!" When
+basket through the streets of Alexandria, they cried out, “Sinners away,
+or keep your eyes to the ground; keep your eyes to the ground!” When
 the crier, standing on the steps of the portico in front of the great
 temple, called upon the pagans to come near and join in the celebration
-of their mysteries, he cried out, "All ye who are clean of hands and
+of their mysteries, he cried out, “All ye who are clean of hands and
 pure of heart, come to the sacrifice; all ye who are guiltless in
-thought and deed, come to the sacrifice."
+thought and deed, come to the sacrifice.”
 
 But many a repentant sinner and humble spirit must have drawn back in
 distrust from a summons which to him was so forbidding, and been glad
@@ -1420,9 +1421,9 @@ chimerical undertaking.
 
 But Egypt itself was so quiet as not to need the presence of so large
 a Roman force as usual to keep it in obedience; and when Vespasian, who
-commanded Nero's armies in Syria, found the Jews more obstinate in their
+commanded Nero’s armies in Syria, found the Jews more obstinate in their
 rebellion and less easily crushed than he expected, the emperor sent the
-young Titus to Alexandria, to lead to his father's assistance all the
+young Titus to Alexandria, to lead to his father’s assistance all the
 troops that could be spared. Titus led into Palestine through Arabia two
 legions, the Fifth and the Tenth, which were then in Egypt.
 
@@ -1479,7 +1480,7 @@ they shall only be taxed according to the actual overflow. In 69 A.D.
 Galba was murdered, after a reign of seven months. Some of his coins,
 however, are dated in the second year of his reign, according to the
 Alexandrian custom of counting the years. They called the 29th of
-August, the first new year's day after the sovereign came to the throne,
+August, the first new year’s day after the sovereign came to the throne,
 the first day of his second year.
 
 Otho was then acknowledged as emperor by Rome and the East, while the
@@ -1491,7 +1492,7 @@ war against the Jews; and all took the oaths to Otho. We find no
 hieroglyphical inscriptions during this short reign of a few weeks, but
 there are many Alexandrian coins to prove the truth of the historian;
 and some of them, like those of Galba, bear the unlooked-for word
-_freedom_. In the few weeks which then passed between the news of Otho's
+_freedom_. In the few weeks which then passed between the news of Otho’s
 death and of Vespasian being raised to the purple in Syria, Vitellius
 was acknowledged in Egypt; and the Alexandrian mint struck a few coins
 in his name with the figure of Victory. But as soon as the legions of
@@ -1552,7 +1553,7 @@ deceiving their followers, that the Egyptian priests were now consulted
 by the Greeks. The oracle at Delphi was silent, but the oracle of Ammon
 continued to return an answer. The mystic philosophy of the East had
 come into fashion in Alexandria, and the priests were more celebrated as
-magicians than as philosophers. They would tell a man's fortune and the
+magicians than as philosophers. They would tell a man’s fortune and the
 year that he was to die by examining the lines of his forehead. Some of
 them even undertook, for a sum of money, to raise the dead to life, or,
 rather, to recall for a time to earth the unwilling spirits, and make
@@ -1572,12 +1573,12 @@ persuading the Egyptians of his own divine right to the throne.
 Vespasian begged him to make use of his prayers that he might obtain
 from God the empire which he had as yet hardly grasped; but Apollonius,
 claiming even a higher mission from Heaven than Vespasian was granting
-to him, answered, with as much arrogance as flattery, "I have myself
-already made you emperor." With the intimacy between Vespasian and
+to him, answered, with as much arrogance as flattery, “I have myself
+already made you emperor.” With the intimacy between Vespasian and
 Apollonius begins the use of gnostic emblems on the Alexandrian coins.
 The imperial pupil was not slow in learning from such a master; and
-the people were as ready to believe in the emperor's miracles as in
-the philosopher's. As Vespasian was walking through the streets of
+the people were as ready to believe in the emperor’s miracles as in
+the philosopher’s. As Vespasian was walking through the streets of
 Alexandria, a man well known as having a disease in his eyes threw
 himself at his feet and begged of him to heal his blindness. He had been
 told by the god Serapis that he should regain his sight if the emperor
@@ -1589,7 +1590,7 @@ to their prayers, and to the flattery of his friends, as to have the
 physicians of Alexandria consulted whether it was in his power to heal
 these unfortunate men. The physicians, like good courtiers, were not so
 unwise as to think it impossible; besides, it seemed meant by the god as
-a public proof of Vespasian's right to the throne; if he were successful
+a public proof of Vespasian’s right to the throne; if he were successful
 the glory would be his, and if he failed the laugh would be against the
 cripples. The two men were therefore brought before him, and in the face
 of the assembled citizens he trampled on one and spit on the other; and
@@ -1601,7 +1602,7 @@ to consult the god as to the state and fortunes of the empire. He went
 into the inner sanctuary alone, and, to his surprise, there he beheld
 the old Basilides, the freedman of Claudius, one of the chief men of
 Alexandria, whom he knew was then lying dangerously ill, and several
-days' journey from the city. He inquired of the priests whether
+days’ journey from the city. He inquired of the priests whether
 Basilides had been in the temple, and was assured that he had not. He
 then asked whether he had been in Alexandria; but nobody had seen him
 there. Lastly, on sending messengers, he learned that he was on his
@@ -1612,7 +1613,7 @@ From Alexandria Vespasian sent back Titus to finish the siege of
 Jerusalem. The Jewish writer Joseph, the son of Matthias, or Flavius
 Josephus, as he called himself when he entered the service of the
 emperor, was then in Alexandria. He had been taken prisoner by
-Vespasian, but had gained his freedom by the betrayal of his country's
+Vespasian, but had gained his freedom by the betrayal of his country’s
 cause. He joined the army of Titus and marched to the overthrow of
 Jerusalem. Notwithstanding the obstinate and heroic struggles of the
 Jews, Judæa was wholly conquered by the Romans, and Jerusalem and its
@@ -1667,7 +1668,7 @@ Titus saw the importance of pleasing the people; and his wish to humour
 their ancient prejudices, at the ceremony of consecrating a new bull
 as Apis, brought some blame upon him. He there, as became the occasion,
 wore the state crown, and dazzled the people of Memphis with his regal
-pomp; but, while thus endeavouring to strengthen his father's throne, he
+pomp; but, while thus endeavouring to strengthen his father’s throne, he
 was by some accused of grasping at it for himself.
 
 The great temple of Kneph, at Latopolis, which had been the work of many
@@ -1675,7 +1676,7 @@ reigns and perhaps many centuries, was finished under Vespasian. It is
 a building worthy of the best times of Egyptian architecture. It has a
 grand portico, upheld by four rows of massive columns, with capitals in
 the form of papyrus flowers. On the ceiling is a zodiac, like that at
-Tentyra; and, though many other kings' names are carved on the walls,
+Tentyra; and, though many other kings’ names are carved on the walls,
 that of Vespasian is in the dedication over the entrance.
 
 Of the reign of Titus in Egypt we find no trace beyond his coins struck
@@ -1696,7 +1697,7 @@ banishment from the literary society of Rome. His death in the camp was
 hastened by his wish to return home. As what Juvenal chiefly aimed at
 in his writings was to lash the follies of the age, he, of course, found
 plenty of amusement in the superstitions and sacred animals of Egypt.
-But he sometimes takes a poet's liberty, and when he tells us that man's
+But he sometimes takes a poet’s liberty, and when he tells us that man’s
 was almost the only flesh that they ate without sinning, we need not
 believe him to the letter. He gives a lively picture of a fight which he
 saw between the citizens of two towns. The towns of Ombos and Tentyra,
@@ -1723,7 +1724,7 @@ oxyrrhynchus fish in the Nile and eaten it; and so the people of
 Oxyrrhynchos, in revenge, made an attack upon the dogs, the gods of
 Cynopolis. They caught a number of them, killed them in sacrifice to
 their offended fish-god, and ate them. The two parties then flew to arms
-and fought several battles; they sacked one another's cities in turns,
+and fought several battles; they sacked one another’s cities in turns,
 and the war was not stopped till the Roman troops marched to the spot
 and punished them both.
 
@@ -1751,7 +1752,7 @@ philosopher, so the Egyptians said that white linen and a tonsure
 would not make a follower of Isis. All the sacrifices to the gods had a
 secondary meaning, or, at least, they tried to join a moral aim to the
 outward act; as on the twentieth day of the month, when they ate honey
-and figs in honour of Thot, they sang "Sweet is truth." The Egyptians,
+and figs in honour of Thot, they sang “Sweet is truth.” The Egyptians,
 like most other Eastern polytheists, held the doctrine which was
 afterwards called Manicheism; they believed in a good and in a wicked
 god, who governed the world between them. Of these the former made
@@ -1861,11 +1862,11 @@ arrival.
 
 [Illustration: 083.jpg TRINITY OF ISIS, HORUS AND NEPHTHYS]
 
-One of Cicero's physicians was an Egyptian. Pliny the Younger repaid his
+One of Cicero’s physicians was an Egyptian. Pliny the Younger repaid his
 Egyptian oculist, Harpocrates, by getting a rescript from the emperor
 to make him a Roman citizen. But the statesman did not know under what
 harsh laws his friend was born, for the grant was void in the case of an
-Egyptian, the emperor's rescript was bad as being against the law; and
+Egyptian, the emperor’s rescript was bad as being against the law; and
 Pliny had again to beg the greater favour that the Egyptian might first
 be made a citizen of Alexandria, without which the former favour was
 useless. Thus, even in Alexandria, a conquered province governed by
@@ -1976,7 +1977,7 @@ been first made by Necho, had been either finished or a second time
 made by Philadelphus; and in this reign that great undertaking was again
 renewed. But the stream of the Nile was deserting the Bubastite branch,
 which was less navigable than formerly; and the engineers now changed
-the greater part of the canal's bed. They thought it wiser to bring
+the greater part of the canal’s bed. They thought it wiser to bring
 water from a higher part of the Nile, so that the current in the canal
 might run into the Red Sea instead of out, and its waters might still
 be fresh and useful to agriculture. It now began at Babylon opposite
@@ -2044,7 +2045,7 @@ even though these had lost their splendour. Memphis and Heliopolis,
 Bubastis, Abydos, Saïs, Tanis, and the hundred-gated Thebes had long
 fallen into ruin, although still inhabited.
 
-The emperor's escort must have been an extraordinary sight as it steered
+The emperor’s escort must have been an extraordinary sight as it steered
 up the stream on a fleet of dahabiehs. The emperor was accompanied by
 students of the museum, interpreters, priests, and astrologers. Amongst
 his followers were Verus and the beautiful Antinous.
@@ -2054,7 +2055,7 @@ Balbilla amongst her court ladies. They landed wherever there was
 anything of interest to be seen, and there was more in those days than
 there is now. They admired the great pyramids, the colossal sphinx, and
 the sacred town of Memphis. This city, the ancient royal seat of the
-Pharaohs, and even in Strabo's time the second town in Egypt, was not
+Pharaohs, and even in Strabo’s time the second town in Egypt, was not
 yet buried under the sand of the desert; its disappearance had, however,
 already begun. Under the Ptolemies it had given much of the material of
 her temples and palaces for the building of Alexandria. The great palace
@@ -2091,7 +2092,7 @@ and was erected in the twelfth dynasty by Usirtasen I.
 
 The royal assemblage had arrived in the course of their journey at Besa,
 a place on the right bank of the river, opposite Hermopolis, when a
-strange event occurred. This was the death of Hadrian's favourite,
+strange event occurred. This was the death of Hadrian’s favourite,
 Antinous, a young Greek from Claudiopolis, who had been degraded to the
 position of Ganymede to the emperor on account of his beauty. It is not
 known where the emperor first came across the youth; possibly in his
@@ -2101,29 +2102,29 @@ his wife. The unfortunate queen was delivered in Besa from his hated
 presence, for Antinous was drowned there in the Nile.
 
 His death was surrounded by mystery. Was it accident? Was he a victim?
-Hadrian's humanity protects him from the suspicion that he sacrificed
+Hadrian’s humanity protects him from the suspicion that he sacrificed
 his victim in cold blood, as Tiberius had once sacrificed the beautiful
 Hypatus in Capri. Had the fantastic youth sacrificed himself of his own
-free will to the death divinities in order to save the emperor's life?
+free will to the death divinities in order to save the emperor’s life?
 Had the Egyptian priests foreseen in the stars some danger threatening
 Hadrian, only to be averted by the death of his favourite? Such an idea
 commended itself to the superstition of the time, especially in
 this land and by the mysterious Nile. It corresponded, too, with the
-emperor's astrological arts. Was Antinous certain when he plunged into
+emperor’s astrological arts. Was Antinous certain when he plunged into
 the waves of the Nile that he would arise from them as a god? Hadrian
 asserts in his memoirs that it was an accident, but no one believed him.
 The divine honours which he paid to the dead youth lead us to suppose
 that they formed the reward of a self-sacrifice, which, according to the
 custom of those times, constituted a highly moral action, and was looked
 upon as heroic devotion. At any rate, we will assume that this sacrifice
-sank into the Nile without Hadrian's will. Hadrian mourned for Antinous
-with unspeakable pain and "womanly tears." Now he was Achilles by the
+sank into the Nile without Hadrian’s will. Hadrian mourned for Antinous
+with unspeakable pain and “womanly tears.” Now he was Achilles by the
 corpse of Patroklus, or Alexander by the pyre of the dead Hephaistus.
 He had the youth splendidly buried in Besa. This most extraordinary
 intermezzo of all Nile journeys supplied dying heathendom with a new
 god, and art with its last ideal form. Probably, also, during the
 burial, far-sighted courtiers already saw the star of Antinous shining
-in Egypt's midnight sky, and then Hadrian saw it himself.
+in Egypt’s midnight sky, and then Hadrian saw it himself.
 
 In the mystical land of Egypt, life might still be poetical even in the
 clear daylight of Roman universal history in the reign of Hadrian. The
@@ -2136,20 +2137,20 @@ ruins of Thebes.
 Thebes, the oldest town in Egypt, had been first put in the shade
 by Memphis, and then destroyed by Cambyses. Since the time of the
 Ptolemies, it had been called Diospolis, and Ptolemais had taken its
-place as capital of the Thebaid. Already in Strabo's time it was split
+place as capital of the Thebaid. Already in Strabo’s time it was split
 up. It formed on either side of the Nile groups of gigantic temples and
 palaces, monuments, and royal graves similar to those scattered to-day
 amongst Luxor, Karnak, Medinet-Habu, Deir-el-Bahari, and Kurna.
 
 [Illustration: 095.jpg COMMEMORATIVE COIN OF ANTINOUS]
 
-In Hadrian's time the Rameseum, the so-called grave of Osymandias, on
+In Hadrian’s time the Rameseum, the so-called grave of Osymandias, on
 the western bank of the Nile, the wonderful building of Ramses II.,
 must still have been in good repair. These pylons, pillars, arcades, and
 courts, these splendid halls with their sculpture-covered walls, appear
 even to have influenced the Roman art in the time of the emperors. Their
-reflex influence has been even seen in Trajan's forum, in which the
-chief thing was the emperor's tomb.
+reflex influence has been even seen in Trajan’s forum, in which the
+chief thing was the emperor’s tomb.
 
 In Alexandria the emperor mixed freely with the professors of the
 museum, asking them questions and answering theirs in return; and he
@@ -2159,7 +2160,7 @@ of money in building and ornamenting the city, and the Alexandrians were
 much pleased with his behaviour. Among other honours that they paid
 him, they changed the name of the month December, calling it the month
 Hadrian; but as they were not followed by the rest of the empire the
-name soon went out of use. The emperor's patronage of philosophy was
+name soon went out of use. The emperor’s patronage of philosophy was
 rather at the cost of the Alexandrian museum, for he enrolled among its
 paid professors men who were teaching from school to school in Italy and
 Asia Minor. Thus Polemon of Laodicea, who taught oratory and philosophy
@@ -2170,7 +2171,7 @@ the same time a salary from the Alexandrian museum. Dionysius of Miletus
 also received his salary as a professor in the museum while teaching
 philosophy and mnemonicsat Miletus and Ephesus. Pancrates, the
 Alexandrian poet, gained his salary in the museum by the easy task of a
-little flattery. On Hadrian's return to Alexandria from the Thebaid, the
+little flattery. On Hadrian’s return to Alexandria from the Thebaid, the
 poet presented to him a rose-coloured lotus, a flower well known in
 India, though less common in Egypt than either the blue or white lotus,
 and assured him that it had sprung out of the blood of the lion slain by
@@ -2230,7 +2231,7 @@ prowess to after-comers; and never had any place been more favoured with
 memorials of this kind than the great statue of Amenhôthes at Thebes.
 This colossal statue, fifty-three feet high, was famed, as long as
 the Egyptian priesthood lasted, for sending forth musical sounds
-every morning at sunrise, when first touched by the sun's rays; and no
+every morning at sunrise, when first touched by the sun’s rays; and no
 traveller ever visited Thebes without listening for these remarkable
 notes. The journey through Upper Egypt was at this time perfectly open
 and safe, and the legs and feet of the statue are covered with names,
@@ -2239,7 +2240,7 @@ at sunrise during the reigns of Hadrian and the Antonines. From these
 curious memorials we learn that Hadrian visited Thebes a second time
 with his queen, Sabina, in the fifteenth year of his reign. When the
 empress first visited the statue she was disappointed at not hearing
-the musical sounds; but, on her hinting threats of the emperor's
+the musical sounds; but, on her hinting threats of the emperor’s
 displeasure, her curiosity was gratified on the following morning.
 This gigantic statue of hard gritstone had formerly been broken in half
 across the waist, and the upper part thrown to the ground, either by the
@@ -2263,9 +2264,9 @@ the same time that it proves how numerous the Christians had become in
 Alexandria, even within seventy years of the period during which the
 evangelist Mark is believed to have preached there:
 
-"Hadrian Augustus to Servianus, the consul, greeting:
+“Hadrian Augustus to Servianus, the consul, greeting:
 
-"As for Egypt, which you were praising to me, dearest Servianus, I have
+“As for Egypt, which you were praising to me, dearest Servianus, I have
 found its people wholly light, wavering, and flying after every breath
 of a report. Those who worship Serapis are Christians, and those who
 call themselves bishops of Christ are devoted to Serapis. There is
@@ -2281,7 +2282,7 @@ Their one god is nothing; Christians, Jews, and all nations worship him.
 I wish this body of men was better behaved, and worthy of their number;
 for as for that they ought to hold the chief place in Egypt. I have
 granted everything unto them; I have restored their old privileges, and
-have made them grateful by adding new ones."
+have made them grateful by adding new ones.”
 
 
 Among the crowd of gods that had formerly been worshipped in Egypt,
@@ -2294,19 +2295,19 @@ polytheism.
 
 [Illustration: 102.jpg EGYPTIAN ORACLE]
 
-The oracle when consulted about the divine nature had answered, "I am
-Ra, and Horus, and Osiris;" or, as the Greeks translated it, Apollo,
-and Lord, and Bacchus; "I rule the hours and the seasons, the wind and
+The oracle when consulted about the divine nature had answered, “I am
+Ra, and Horus, and Osiris;” or, as the Greeks translated it, Apollo,
+and Lord, and Bacchus; “I rule the hours and the seasons, the wind and
 the storms, the day and the night; I am king of the stars and myself an
-immortal fire." Hence arose the opinion which seems to have been given
+immortal fire.” Hence arose the opinion which seems to have been given
 to Hadrian, that the Egyptians had only one god, and his mistake in
 thinking that the worshippers of Serapis were Christians. The emperor,
 indeed, himself, though a polytheist, was very little of an idolater;
 for, though he wished to add Christ to the number of the Roman gods,
 he on the other hand ordered that the temples built in his reign should
 have no images for worship; and in after ages it was common to call
-all temples without statues Hadrian's temples. But there were other and
-stronger reasons for Hadrian's classing the Christians with the Egyptian
+all temples without statues Hadrian’s temples. But there were other and
+stronger reasons for Hadrian’s classing the Christians with the Egyptian
 astrologers. A Christian heresy was then rising into notice in Egypt in
 that very form, taking its opinions from the philosophy on which it was
 engrafted. Before Christianity was preached in Alexandria, there were
@@ -2337,8 +2338,8 @@ between the ordinary comprehension and a higher knowledge only granted
 to a few gifted or chosen ones. They were split up into different sects,
 according as they approached more nearly the Eastern theosophy or the
 platonic philosophy; but in general the Eastern conception, with its
-symbols and unlimited fantasy, remained dominant. The "creed of those
-who know" never reached actual monotheism, the conception of one
+symbols and unlimited fantasy, remained dominant. The “creed of those
+who know” never reached actual monotheism, the conception of one
 personal god, who created everything according to his own free will and
 rules over everything with unlimited wisdom and love. The god of
 the Gnostics is a dark, mysterious being which can only arrive at a
@@ -2377,19 +2378,19 @@ and other emblems of their superstition, which they kept as charms
 against diseases and evil spirits. The word _Abrasax_ may be translated
 _Hurt me not_. To their mystic rites we may trace many of the reproaches
 thrown upon Christianity, such as that the Christians worshipped the
-head of an ass, using the animal's Koptic name _Eeo_, to represent the
+head of an ass, using the animal’s Koptic name _Eeo_, to represent the
 name of IAn, or Jahveh. To the same source we may also trace some of
 the peculiarities of the Christian fathers, such as St. Ambrose calling
-Jesus "the good scarabæus, who rolled up before him the hitherto
-un-shapen mud of our bodies;" a thought which seems to have been
-borrowed as much from the hieroglyphics as from the insect's habits; and
+Jesus “the good scarabæus, who rolled up before him the hitherto
+un-shapen mud of our bodies;” a thought which seems to have been
+borrowed as much from the hieroglyphics as from the insect’s habits; and
 perhaps from the Egyptian priests in some cases, using the scarabous
 to denote the god Horus-Ra, and sometimes the word _only begotten_. We
 trace this thought on the Gnostic gems where Ave see a winged griffin
 rolling before him a wheel, the emblem of eternity. He sits like a
 conqueror on horseback, trampling under foot the serpent of old, the
 spirit of sin and death. His horse is in the form of a ram, with an
-eagle's head and the crowned asp or basilisk for its tail. Before him
+eagle’s head and the crowned asp or basilisk for its tail. Before him
 stands the figure of victory giving him a crown; above are written the
 words Alpha and Omega, and below perhaps the word [IAH], Jahveh.
 
@@ -2419,7 +2420,7 @@ and mathematics.
 Not content with these, Justin turned to the platonist, whose purer
 philosophy seemed to add wings to his thoughts, and taught him to mount
 aloft towards true wisdom. While turning over in his mind what he had
-thus learned in the several schools, dissatisfied with the philosopher's
+thus learned in the several schools, dissatisfied with the philosopher’s
 views, he chanced one day to meet with an old man walking on the
 seashore near Alexandria, to whom he unbosomed his thoughts, and by whom
 he was converted to Christianity. Justin tells us that there were no
@@ -2428,7 +2429,7 @@ waggons, among whom prayers were not offered up to the heavenly father
 in the name of the crucified Jesus. The Christians met every Sunday for
 public worship, which began with a reading from the prophets, or from
 the memoirs of the apostles called the gospels. This was followed by
-a sermon, a prayer, the bread and wine, and a second prayer. Justin's
+a sermon, a prayer, the bread and wine, and a second prayer. Justin’s
 quotations prove that he is speaking of the New Testament, which within
 a hundred years of the crucifixion wras read in all the principal cities
 in which Greek was spoken. Justin died as a martyr in 163 A.D.
@@ -2448,9 +2449,9 @@ Athenagoras confines himself in his defence to the resurrection from
 the dead and the unity of the Deity, the points chiefly attacked by the
 pagans.
 
-Hadrian's Egyptian coins are remarkable both for number and variety. In
+Hadrian’s Egyptian coins are remarkable both for number and variety. In
 the sixth year of the reign we see a ship with spread sails, most likely
-in gratitude for the emperor's safe arrival in Egypt. In the eighth year
+in gratitude for the emperor’s safe arrival in Egypt. In the eighth year
 we see the head of the favourite Antinous, who had been placed among the
 gods of the country. In the eleventh year, when the emperor took up the
 tribunitial power at Rome for a second period of ten years, we find a
@@ -2461,23 +2462,23 @@ for every year of this reign, and, in this year, for nearly every nome
 in Egypt. Some coins are strongly marked with the favourite opinion of
 the Gnostics as to the opposition between good and evil.
 
-[Illustration: 109.jpg Hadrian's Egyptian coins]
+[Illustration: 109.jpg Hadrian’s Egyptian coins]
 
 On one we have the war between the serpent of good and the serpent of
 evil, distinguished by their different forms and by the emblems of Isis
 and Serapis; on others the heads of Isis and Serapis, the principles of
 love and fear; while on a third these two are united into a trinity by
-Horus, who is standing on an eagle instead of having an eagle's head, as
+Horus, who is standing on an eagle instead of having an eagle’s head, as
 represented on previous coins.
 
 The beginning of the reign of Antoninus Pius (A.D. 138) was remarkable
 as being the end of the Sothic period of one thousand four hundred and
-sixty years; the movable new year's day of the calendar had come round
+sixty years; the movable new year’s day of the calendar had come round
 to the place in the natural year from which it first began to move in
 the reign of Menophres or Thûtmosis III.; it had come round to the day
 when the dog-star rose heliacally. If the years had been counted from
 the beginning of this great year, there could have been no doubt when it
-came to an end, as from the want of a leap year the new year's day
+came to an end, as from the want of a leap year the new year’s day
 must have been always moving one day in four years; but no satisfactory
 reckoning of the years had been kept, and, as the end of the period was
 only known by observation, there was some little doubt about the exact
@@ -2565,7 +2566,7 @@ Roman empire, called the _Itinerary of Antoninus_. It included the
 great roads of Egypt, which were only six in number. One was from
 Contra-Pselcis in Nubia along the east bank of the Nile, to Babylon
 opposite Memphis, and there turning eastward through Heliopolis and the
-district of the Jews to Clysmon, where Trajan's canal entered the Red
+district of the Jews to Clysmon, where Trajan’s canal entered the Red
 Sea. A second, from Memphis to Pelusium, made use of this for
 about thirty miles, joining it at Babylon, and leaving it at Scense
 Veteranorum. By these two roads a traveller could go from Pelusium to
@@ -2601,7 +2602,7 @@ sometimes of where it was going.
 
 The Egyptians sent coarse linen, glass bottles, brazen vessels, brass
 for money, and iron for weapons of war and hunting; and they received
-back ivory, rhinoceros' teeth, Indian steel, Indian ink, silks, slaves,
+back ivory, rhinoceros’ teeth, Indian steel, Indian ink, silks, slaves,
 tortoise-shell, myrrh, and other scents, with many other Eastern
 articles of high price and little weight. The presents which the
 merchants made to the petty kings of Arabia were chiefly horses, mules,
@@ -2649,7 +2650,7 @@ have seen this copied on the coins in the case of a Greek word, when the
 bird phoenix was used for the palm-branch phoenix, or the hieroglyphical
 word _year_; and a striking instance may be noticed in the case of a
 Latin word, as the sixteen children or _cupids_ mean sixteen _cubits_,
-the wished-for height of the Nile's overflow. The statue of the Nile,
+the wished-for height of the Nile’s overflow. The statue of the Nile,
 which had been carried by Vespasian to Rome and placed in the temple of
 Peace, was surrounded by the same sixteen children. On the coins of his
 twelfth year the sail held up by the goddess Isis is blown towards the
@@ -2689,7 +2690,7 @@ museum he was a philosopher, joining them in their studies in the
 schools.
 
 Borne and Athens at this time alike looked upon Alexandria as the centre
-of the world's learning. The library was then in its greatest glory;
+of the world’s learning. The library was then in its greatest glory;
 the readers were numerous, and Christianity had as yet raised no doubts
 about the value of its pagan treasures. All the wisdom of Greece,
 written on rolls of brittle papyrus or tough parchment, was ranged in
@@ -2752,7 +2753,7 @@ than on the banks of the Nile.
 Nothing could be lower than the poetic taste in Alexandria at this time.
 The museum was giving birth to a race of poets who, instead of bringing
 forth thoughts out of their own minds, found them in the storehouse of
-the memory only. They wrote their patchwork poems by the help of Homer's
+the memory only. They wrote their patchwork poems by the help of Homer’s
 lines, which they picked from all parts of the Iliad and Odyssey and
 so put together as to make them tell a new tale. They called themselves
 Homeric poets.
@@ -2807,9 +2808,9 @@ hints.
 Another spurious Christian work of about the same time is the
 _Clementina_, or the _Recognitions of Clemens_, Bishop of Rome. It is
 an account of the travels of the Apostle Peter and his conversation with
-Simon Magus; but the author's knowledge of the Egyptian mythology, of
+Simon Magus; but the author’s knowledge of the Egyptian mythology, of
 the opinions of the Greek philosophers, and of the astrological rules by
-which fortunes are foretold from the planets' places, amply prove that
+which fortunes are foretold from the planets’ places, amply prove that
 he was an Egyptian or an Alexandrian. No name ranked higher among the
 Christians than that of Clemens Romanus; and this is only one out of
 several cases of Christian authors who wished to give weight to their
@@ -2849,7 +2850,7 @@ made this journey have left the fact on record.
 The celebrated museum, which had held the vast library of the Ptolemies,
 had been burnt by the soldiers of Julius Cæsar in one of their battles
 with the Egyptian army in the streets of Alexandria; but the loss had
-been in part repaired by Mark Antony's gift of the library from Pergamus
+been in part repaired by Mark Antony’s gift of the library from Pergamus
 to the temple of Serapis. The new library, however, would seem to have
 been placed in a building somewhat separated from the temple, as when
 the temple of Serapis was burnt in the reign of Marcus Aurelius, and
@@ -2859,16 +2860,16 @@ library of the Serapium, it is said, had risen to the number of seven
 hundred thousand volumes. The temple-keeper to the great god Serapis, or
 one of the temple-keepers, at this time was Asclepiades, a noted boxer
 and wrestler, who had been made chief of the wrestling-ground and had
-received the high rank of the emperor's freedman. He set up a statue to
+received the high rank of the emperor’s freedman. He set up a statue to
 his father Demetrius, an equally noted boxer and wrestler, who had been
-chief priest of the wrestling-ground and of the emperor's baths in the
+chief priest of the wrestling-ground and of the emperor’s baths in the
 last reign.
 
 [Illustration: 126.jpg THE ANUBIS STAFF]
 
 Another favourite in the theatre was Apolaustus of Memphis, who removed
 to Rome, where he was crowned as conqueror in the games, and as a reward
-made priest to Apollo and emperor's freedman.
+made priest to Apollo and emperor’s freedman.
 
 The city of Canopus was still a large mart for merchandise, as the
 shallow but safe entrance to its harbour made it a favourite with pilots
@@ -2881,7 +2882,7 @@ Canopic jars, which held those parts of the body that could not be made
 solid in the mummy, and which had the heads of the four lesser gods
 of the dead on their lids, received their name from this city. The
 sculptures on the beautiful temples of Contra-Latopolis were also
-finished in this reign, and the emperor's names and titles were carved
+finished in this reign, and the emperor’s names and titles were carved
 on the walls in hieroglyphics, with those of the Ptolemies, under whom
 the temple itself had been built. Commodus may perhaps not have been
 the last emperor whose name and praises were carved in hieroglyphics;
@@ -2920,9 +2921,9 @@ The priests made a great boast of their learning and philosophy, and
 could each repeat by heart those books of Thot which belonged to his own
 order. The singer, who walked first in the sacred processions, bearing
 the symbols of music, could repeat the books of hymns and the rules for
-the king's life. The soothsayer, who followed, carrying a clock and a
+the king’s life. The soothsayer, who followed, carrying a clock and a
 palm-branch, the emblem of the year, could repeat the four astrological
-books; one on the moon's phases, one on the fixed stars, and two on
+books; one on the moon’s phases, one on the fixed stars, and two on
 their heliacal risings. The scribe, who walked next, carrying a book
 and the flat rule which held the ink and pen, was acquainted with the
 geography of the world and of the Nile, and with those books which
@@ -2982,19 +2983,19 @@ and could command no force to break open temples.
 
 The Egyptian priests, who had been proud of the superiority of their own
 doctrines over the paganism of their neighbours, mourned the overthrow
-of their national religion. "Our land," says the author of Hermes
-Trismegistus, "is the temple of the world; but, as wise men should
+of their national religion. “Our land,” says the author of Hermes
+Trismegistus, “is the temple of the world; but, as wise men should
 foresee all things, you should know that a time is coming when it will
 seem that the Egyptians have by an unfailing piety served God in
 vain. For when strangers shall possess this kingdom religion will
 be neglected, and laws made against piety and divine worship, with
 punishment on those who favour it. Then this holy seat will be full of
-idolatry, idols' temples, and dead men's tombs. O Egypt, Egypt, there
+idolatry, idols’ temples, and dead men’s tombs. O Egypt, Egypt, there
 shall remain of thy religion but vague stories which posterity will
 refuse to believe, and words graven in stone recounting thy piety. The
 Scythian, the Indian, or some other barbarous neighbour shall dwell in
 Egypt. The Divinity shall reascend into the heaven; and Egypt shall be a
-desert, widowed of men and gods."
+desert, widowed of men and gods.”
 
 The spread of Christianity among the Egyptians was such that their
 teachers found it necessary to supply them with a life of Jesus, written
@@ -3055,11 +3056,11 @@ writing. He then divides the hieroglyphic into the alphabetic and
 the symbolic; and lastly, he divides the symbolic characters into the
 imitative, the figurative, and those formed like riddles. As instances
 of these last we may quote, for the first, the three zigzag lines which
-by simple imitation mean "water;" for the second, the oval which mean
-"a name," because kings' names were written within ovals; and for the
-third, a cup with three anvils, which mean "Lord of Battles," because
-"cup" and "lord" have nearly the same sound _neb_, and "anvils" and
-"battles" have nearly the same sound _meshe_.
+by simple imitation mean “water;” for the second, the oval which mean
+“a name,” because kings’ names were written within ovals; and for the
+third, a cup with three anvils, which mean “Lord of Battles,” because
+“cup” and “lord” have nearly the same sound _neb_, and “anvils” and
+“battles” have nearly the same sound _meshe_.
 
 In this reign Pantonus of Athens, a Stoic philosopher, held the first
 place among the Christians of Alexandria. He is celebrated for uniting
@@ -3086,10 +3087,10 @@ a school in which learning and Christianity went hand in hand for nearly
 two centuries. Pantænus has left no writings of his own, and is best
 known through his pupil or fellow-student, Clemens. He is said to have
 brought with him to Alexandria, from the Jewish Christians that he met
-with on his travels, a copy of St. Matthew's Gospel in the original
+with on his travels, a copy of St. Matthew’s Gospel in the original
 Hebrew, a work now unfortunately lost, which, if we possessed it, would
 settle for us the disputed point, whether or no it contained all that
-now bears that Apostle's name in the Greek translation.
+now bears that Apostle’s name in the Greek translation.
 
 The learned, industrious, and pious Clemens, who, to distinguish him
 from Clemens of Rome, is usually called Clemens Alexandrinus, succeeded
@@ -3100,7 +3101,7 @@ Gentiles, a treatise on Christian behaviour called Pedagogus, and eight
 books of Stromata, or _collections_, which he wrote to describe the
 perfect Christian or Gnostic, to furnish the believer with a model for
 his imitation, and to save him from being led astray by the sects of
-Gnostics "falsely so called." By his advice, and by the imitation of
+Gnostics “falsely so called.” By his advice, and by the imitation of
 Christ, the Christian is to step forward from faith, through love, to
 knowledge; from being a slave, he is to become a faithful servant and
 then a son; he is to become at last a god walking in the flesh.
@@ -3123,7 +3124,7 @@ the pagan poets.
 During the reign of Pertinax, which lasted only three months (194 A.D.),
 we find no trace of his power in Egypt, except the money which the
 Alexandrians coined in his name. It seems to have been the duty of the
-prefect of the mint, as soon as he heard of an emperor's death, to lose
+prefect of the mint, as soon as he heard of an emperor’s death, to lose
 no time in issuing coins in the name of his successor. It was one of the
 means to proclaim and secure the allegiance of the province for the new
 emperor.
@@ -3135,11 +3136,11 @@ Saracens. He was a hardy soldier, and strict in his discipline, while he
 shared the labours of the field and of the camp with the men under him.
 He would not allow them the use of wine; and once, when the troops that
 guarded the frontier at Syênê (Aswan) sent to ask for it, he bluntly
-answered, "You have got the Nile to drink, and cannot possibly want
-more." Once, when a cohort had been routed by the Saracens, the men
+answered, “You have got the Nile to drink, and cannot possibly want
+more.” Once, when a cohort had been routed by the Saracens, the men
 complained that they could not fight without wine; but he would not
-relax in his discipline. "Those who have just now beaten you," said
-Niger, "drink nothing but water." He gained the love and thanks of the
+relax in his discipline. “Those who have just now beaten you,” said
+Niger, “drink nothing but water.” He gained the love and thanks of the
 people of Upper Egypt by thus bridling the lawlessness of the troops;
 and they gave him his statue cut in black basalt, in allusion to his
 name Niger. This statue was placed in his Roman villa.
@@ -3218,7 +3219,7 @@ death of Niger, though he had reigned in Rome since the deaths of
 Pertinax and Julian. His Egyptian coins are either copper, or brass
 plated with a little silver; and after a few reigns even those last
 traces of a silver coinage are lost in this falling country. In tracing
-the history of a word's meaning we often throw a light upon the customs
+the history of a word’s meaning we often throw a light upon the customs
 of a nation. Thus, in Rome, gold was so far common that avarice was
 called the love of gold; while in Greece, where silver was the metal
 most in use, money was called _argurion_. In the same way it is
@@ -3292,13 +3293,13 @@ temple in Rome to the goddess Isis.
 
 On the murder of Caracalla in A.D. 217, Macrinus, who was thought to be
 the author of his death, was acknowledged as emperor; and though he only
-reigned for about two months, yet, as the Egyptian new year's day fell
+reigned for about two months, yet, as the Egyptian new year’s day fell
 within that time, we find Alexandrian coins for the first and second
 years of his reign. The Egyptians pretended that the death of Caracalla
 had been foretold by signs from heaven; that a ball of fire had fallen
 on the temple of Serapis, which destroyed nothing but the sword with
 which Caracalla had slain his brother; and that an Egyptian named
-Serapion, who had been thrown into a lion's den for naming Macrinus as
+Serapion, who had been thrown into a lion’s den for naming Macrinus as
 the future emperor, had escaped unhurt by the wild beasts.
 
 Macrinus recalled from Alexandria Julian, the prefect of Egypt, and
@@ -3306,7 +3307,7 @@ appointed to that post his friend Basilianus, with Marius Secundus, a
 senator, as second in command, who was the first senator that had ever
 held command in Egypt. He was himself at Antioch when Bassianus, a
 Syrian, pretending to be the son of Caracalla, offered himself to the
-legions as that emperor's successor. When the news reached Alexandria
+legions as that emperor’s successor. When the news reached Alexandria
 that the Syrian troops had joined the pretended Antoninus, the prefect
 Basilianus at once put to death the public couriers that brought the
 unwelcome tidings. But when, a few days afterwards, it was known that
@@ -3331,7 +3332,7 @@ by the weakness of his government. The Alexandrians, always ready to
 lampoon their rulers, laughed at his wish to be thought a Roman; they
 called him the Syrian, the high priest, and the ruler of the synagogue.
 And well might they think slightly of his government, when a prefect of
-Egypt owed his appointment to the emperor's want of power to punish him.
+Egypt owed his appointment to the emperor’s want of power to punish him.
 Epagathus had headed a mutiny of the prætorian guards in Rome, in which
 their general Ulpian was killed; and Alexander, afraid to punish the
 murderers, made the ringleader of the rebels prefect of Egypt in order
@@ -3346,7 +3347,7 @@ important school of philosophy, that of the Alexandrian platonists. He
 is only known to us through his pupils, in whose writings we trace the
 mind and system of the teacher. The most celebrated of these pupils were
 Plotinus, Herennius, and Origen, a pagan writer, together with Longinus,
-the great master of the "sublime," who owns him his teacher in elegant
+the great master of the “sublime,” who owns him his teacher in elegant
 literature. Ammonius was unequalled in the variety and depth of his
 knowledge, and was by his followers called heaven-taught. He aimed at
 putting an end to the triflings and quarrels of the philosophers by
@@ -3360,7 +3361,7 @@ like the mangled body of Osiris.
 Origen in the tenth year of this reign (A.D. 231) withdrew to Cæsarea,
 on finding himself made uncomfortable at Alexandria by the displeasure
 of Demetrius the bishop; and he left the care of the Christian school to
-Heraclas, who had been one of his pupils. Origen's opinions met with no
+Heraclas, who had been one of his pupils. Origen’s opinions met with no
 blame in Cæsarea, where Christianity was not yet so far removed from its
 early simplicity as in Egypt.
 
@@ -3388,7 +3389,7 @@ the _Evangelical Canons_, a work afterwards continued by Eusebius of
 Cæsarea.
 
 On the death of the Emperor Alexander, in A.D. 235, while Italy was
-torn to pieces by civil wars and by its generals' rival claims for the
+torn to pieces by civil wars and by its generals’ rival claims for the
 purple, the Alexandrians seem to have taken no part in the struggles,
 but to have acknowledged each emperor as soon as the news reached them
 that he had taken the title. In one year we find Alexandrian coins of
@@ -3407,7 +3408,7 @@ warlike skill. The army of Gordian was routed, and the emperor himself
 slain, either by traitors or by the enemy. Hereafter we shall see the
 Romans paying the just penalty for the example that they had set to
 the surrounding nations. They had taught them that conquest should be
-a people's chief aim, that the great use of strength was to crush
+a people’s chief aim, that the great use of strength was to crush
 a neighbour; and it was not long before Egypt and the other Eastern
 provinces suffered under the same treatment. So little had defeat
 been expected that the philosopher Plotinus had left his studies in
@@ -3421,7 +3422,7 @@ the physician, from Alexandria.
 [Illustration: 151.jpg SYMBOL OF EGYPT]
 
 Philip, who is accused by the historians of being the author of
-Gordian's death, succeeded him on the throne in 244; but he is only
+Gordian’s death, succeeded him on the throne in 244; but he is only
 known in the history of Egypt by his Alexandrian coins, which we find
 with the dates of each of the seven years of his reign, and these seem
 to prove that for one year he had been associated with Gordian in the
@@ -3540,7 +3541,7 @@ danger from the headstrong giddiness of the Alexandrians. Any civility
 forgotten, a place in the baths not yielded, a heap of rubbish, or even
 a pair of old shoes in the streets, was often enough to throw the state
 into the greatest danger, and make it necessary to call out the troops
-to put down the riots. Thus, one day, one of the prefect's slaves was
+to put down the riots. Thus, one day, one of the prefect’s slaves was
 beaten by the soldiers, for saying that his shoes were better than
 theirs. On this a riotous crowd gathered round the house of Æmilianus to
 complain of the conduct of his soldiers. He was attacked with stones and
@@ -3555,7 +3556,7 @@ was even thought to deserve the name. He governed Egypt during his short
 reign with great vigour. He led his army through the Thebaid, and drove
 back the barbarians with a courage and activity which had latterly been
 uncommon in the Egyptian army. Alexandria then sent no tribute to Rome.
-"Well! cannot we live without Egyptian linen?" was the forced joke of
+“Well! cannot we live without Egyptian linen?” was the forced joke of
 Gallienus, when the Romans were in alarm at the loss of the usual supply
 of grain. But Æmilianus was soon beaten by Theodotus, the general of
 Gallienus, who besieged him in the strong quarter of Alexandria called
@@ -3581,7 +3582,7 @@ no longer with safety allow the Christians to be persecuted for their
 religion. Both their numbers and their station made it dangerous to
 treat them as enemies; and the emperor ordered all persecution to be
 stopped. The imperial rescript for that purpose was even addressed to
-"Dionysius, Pinna, Demetrius, and the other bishops;" it grants them
+“Dionysius, Pinna, Demetrius, and the other bishops;” it grants them
 full indulgence in the exercise of their religion, and by its very
 address almost acknowledges their rank in the state. By this edict of
 Gallienus the Christians were put on a better footing than at any time
@@ -3596,7 +3597,7 @@ sadly ruined by the late siege. The middle of the city was a vast waste.
 It was easier, he says, to go from one end of Egypt to the other than to
 cross the main street which divided the Bruchium from the western end
 of Alexandria. The place was still marked with all the horrors of last
-week's battle. Then, as usual, disease and famine followed upon war. Not
+week’s battle. Then, as usual, disease and famine followed upon war. Not
 a house was without a funeral. Death was everywhere to be seen in its
 most ghastly form. Bodies were left un-buried in the streets to be eaten
 by the dogs. Men ran away from their sickening friends in fear. As the
@@ -3625,7 +3626,7 @@ from Cleopatra, she marched upon Egypt, in 268 A.D., to seize the throne
 of her ancestors, and to add that kingdom to Syria and Asia Minor, which
 she already possessed.
 
-Zenobia's army was led by her general, Zabda, who was joined by an
+Zenobia’s army was led by her general, Zabda, who was joined by an
 Egyptian named Timogenes; and, with seventy thousand Palmyrenes,
 Syrians, and other barbarians, they routed the Roman army of fifty
 thousand Egyptians under Probatus. The unfortunate Roman general put an
@@ -3688,7 +3689,7 @@ Aurelian, and the reign of Zenobia drew to a close. Aurelian at first
 granted her the title of his colleague in the empire, and we find
 Alexandrian coins with her head on one side and his on the other. But
 he lost no time in leading his forces into Syria, and, after routing
-Zenobia's army in one or two battles, he took her prisoner at Emessa.
+Zenobia’s army in one or two battles, he took her prisoner at Emessa.
 He then led her to Rome, where, after being made the ornament of his
 triumph, she was allowed to spend the rest of her days in quiet, having
 reigned for four years in Palmyra, though only for a few months in
@@ -3713,13 +3714,13 @@ aimed at reigning alone, took the title of Augustus, and dropped the
 name of Aurelian from his coins. This step was very likely the cause of
 his overthrow and death, which happened in the year 271.
 
-On the overthrow of Zenobia's family, Egypt, which had been so fruitful
+On the overthrow of Zenobia’s family, Egypt, which had been so fruitful
 in rebels, submitted to the Emperor Aurelian, but it was only for a few
 months. The Greeks of Alexandria, now lessened in numbers, were found to
 be no longer masters of the kingdom. Former rebellions in Egypt had
 been caused by the two Roman legions and the Greek mercenaries sometimes
 claiming the right to appoint an emperor to the Roman world; but
-Zenobia's conquest had raised the Egyptian and Arab population in
+Zenobia’s conquest had raised the Egyptian and Arab population in
 their own opinion, and they were no longer willing to be governed by an
 Alexandrian or European master. In 272 A.D. they set up Firmus, a native
 of Seleucia, who took the title of emperor; and, resting his power
@@ -3764,7 +3765,7 @@ of his reign is not without its difficulties, as we find Alexandrian
 coins of Domitianus with Latin inscriptions, and dated in the third year
 of his reign. The Latin language had not at this time been used on the
 coins of Alexandria; and he could not have held Alexandria for any
-one whole year, as the series of Aurelian's coins is not broken. It is
+one whole year, as the series of Aurelian’s coins is not broken. It is
 possible that the Latin coins of Domitianus may belong to a second and
 later usurper of the same name.
 
@@ -3776,7 +3777,7 @@ and fallen state of the country; and from this time forward copper, or,
 rather, brass, is the only metal used.
 
 Aurelian left Probus in the command of the Egyptian army, and that
-general's skill and activity found full employment in driving back the
+general’s skill and activity found full employment in driving back the
 barbarians who pressed upon the province on each of the three sides on
 which it was open to attack.
 
@@ -3855,10 +3856,10 @@ in the success with which they had made their late general emperor of
 the Roman world, they now attempted to raise up a rival to him in the
 person of their present general Saturninus. Saturninus had been made
 general of the Eastern frontier by Aurelian, who had given him strict
-orders never to enter Egypt. "The Egyptians," says the historian,
-meaning, however, the Alexandrians, "are boastful, vain, spiteful,
+orders never to enter Egypt. “The Egyptians,” says the historian,
+meaning, however, the Alexandrians, “are boastful, vain, spiteful,
 licentious, fond of change, clever in making songs and epigrams against
-their rulers, and much given to soothsaying and augury." Aurelian well
+their rulers, and much given to soothsaying and augury.” Aurelian well
 knew that the loyalty of a successful general was not to be trusted in
 Egypt, and during his lifetime Saturninus never entered that province.
 But after his death, when Probus was called away to the other parts of
@@ -3883,9 +3884,9 @@ On the death of Probus, in A.D. 283, the empire fell to Carus and his
 sons, Numerianus and Carinus, whose names are found on the Alexandrian
 coins, but whose short reigns have left no other trace in Egypt.
 
-[Illustration: 169.jpg COIN OF TRAJAN'S SECOND LEGION]
+[Illustration: 169.jpg COIN OF TRAJAN’S SECOND LEGION]
 
-At this time also we find upon the coins the name of Trajan's second
+At this time also we find upon the coins the name of Trajan’s second
 Egyptian legion, which was at all times stationed in Egypt, and which,
 acting upon an authority that was usually granted to the Roman legions
 in the various provinces, coined money of several kinds for their own
@@ -3931,17 +3932,17 @@ turned aside the canals that supplied the citizens with water. After a
 tedious siege of eight months, Alexandria was at last taken by storm in
 297, and Achilleus was put to death. A large part of the city was burnt
 at the storming, nor would the punishment of the citizens have there
-ended, but for Diocletian's humane interpretation of an accident. The
+ended, but for Diocletian’s humane interpretation of an accident. The
 horse on which he sat stumbled as he entered the city with his troops,
 and he had the humanity to understand it as a command from heaven that
 he should stop the pillage of the city; and the citizens in gratitude
 erected near the spot a bronze statue of the horse to which they owed so
 much. This statue has long since been lost, but we cannot be mistaken in
 the place where it stood. The lofty column in the centre of the temple
-of Serapis, now well known by the name of Pompey's Pillar,* once held a
+of Serapis, now well known by the name of Pompey’s Pillar,* once held a
 statue on the top, and on the base it still bears the inscription of
-the grateful citizens, "To the most honoured emperor, the saviour of
-Alexandria, the unconquerable Diocletian."
+the grateful citizens, “To the most honoured emperor, the saviour of
+Alexandria, the unconquerable Diocletian.”
 
      * See Volume X., page 317.
 
@@ -3986,7 +3987,7 @@ then made against the Christians, and for the cruel severity with which
 it was put into force. The issuing of this edict in 304 A.D., which was
 to root out Christianity from the world, took place in the twentieth
 year of the reign, according to the Alexandrians, or in the nineteenth
-year after the emperor's first installation as consul, as years were
+year after the emperor’s first installation as consul, as years were
 reckoned in the other parts of the empire. The churches, which since
 the reign of Gallienus had been everywhere rising, were ordered to be
 destroyed and the Bibles to be burnt, while banishment, slavery, and
@@ -3998,7 +3999,7 @@ execution. But the Christians were too numerous to fly and too few
 to resist. The ecclesiastical writers present us with a sad tale of
 tortures and of death borne by those who refused to renounce their
 faith,--a tale which is only made less sad by the doubt how far
-the writers' feelings may have misled their judgment, and made them
+the writers’ feelings may have misled their judgment, and made them
 overstate the numbers.
 
 But we may safely rely upon the account which Eusebius gives us of what
@@ -4054,7 +4055,7 @@ superior learning, it may have been because his opinions were becoming
 more popular than those of the Greeks, that a professor with an Egyptian
 name was placed at the head of the catechetical school. Serapion was
 succeeded by Peter, who afterwards gained the bishopric of Alexandria
-and a martyr's crown. But these men were little known beyond their
+and a martyr’s crown. But these men were little known beyond their
 lecture-room. In the twentieth year of the reign, on the death of Peter,
 the Bishop of Alexandria, who lost his life as a martyr, the presbyters
 of the church met to choose a successor. Among their number was Arius,
@@ -4111,7 +4112,7 @@ Alexandria, and by calling upon Alexander, the bishop, to inquire into
 his belief, and to condemn it if found unsound. Arius frankly and openly
 acknowledged his opinions: he thought Jesus a created being, and would
 speak of him in no higher terms than those used in the New Testament
-and Apostles' Creed, and defended his opinions by an appeal to the
+and Apostles’ Creed, and defended his opinions by an appeal to the
 Scriptures. But he soon found that his defence was thought weak,
 and, without waiting to be condemned, he withdrew before the storm to
 Palestine, where he remained till summoned before the council of Nicæa
@@ -4154,14 +4155,14 @@ royal city. His teaching consisted in a mixture of Persian and
 Christian-Gnostic views; its middle final point was the dualism of good
 and evil which rules in the world and in the human breast.
 
-According to Mani's creed, there were originally two principles, God in
+According to Mani’s creed, there were originally two principles, God in
 His kingdom of light, and the demon with his kingdom of darkness, and
 these two principles existed independently of each other. The powers
 of evil fell into strife with each other, until, hurled away by their
 inward confusion, they reached the outermost edge of their own kingdom,
 and from there beheld the kingdom of light in all its glory. Now they
 ceased their strife among themselves and united to do battle to the
-kingdom of light. To meet them, God created the "original man" who,
+kingdom of light. To meet them, God created the “original man” who,
 armed with the five pure elements, light, fire, air, water, and earth,
 advanced to meet the hostile powers. He was defeated, though finally
 saved; but a part of his light had thus made its way into the realm of
@@ -4175,16 +4176,16 @@ ether diffused around the entire world. Both attract the powers of light
 which have sunk into the material world in order to lead them back,
 finally, into the everlasting realm of light. To oppose them, however,
 the demons created a new being, viz.: man, after the example of the
-"original man," and united in him the clearest light and the darkness
+“original man,” and united in him the clearest light and the darkness
 peculiar to themselves, in order that the great strife might be renewed
 in his breast, and so man became the point of union of all the forces in
 the universe, the microcosm in which two principles ever strive for the
 mastery. Through the enticements of the material and the illusions
 of the demon, the soul of light was held in bondage in spite of its
 indwelling capacity for freedom, so that in heathenism and Judaism the
-"son of everlasting light," as the soul of the universe, was chained
+“son of everlasting light,” as the soul of the universe, was chained
 to matter. In order to accomplish this work of redemption more quickly,
-Christ finally leaves his throne at God's right hand, and appears
+Christ finally leaves his throne at God’s right hand, and appears
 on earth, truly in human form, but only with an apparent body; his
 suffering and death on the cross are but illusions for the multitude,
 although historical facts, and they serve at the same time as a symbol
@@ -4257,7 +4258,7 @@ the text that the Greek translation became more copious than the Hebrew
 original, as the Latin soon afterwards became more copious than the
 Greek.
 
-It was about this time, at least after Theodotion's translation of
+It was about this time, at least after Theodotion’s translation of
 Daniel had received the sanction of the Alexandrian church, and when the
 teachers of Christianity found willing hearers in every city of Egypt,
 that the Bible was translated into the language of the country. We have
@@ -4352,7 +4353,7 @@ Philosophy, too, had failed to give complete satisfaction. Man had
 realised his utter inability to find knowledge in himself by his
 unaided efforts. He despaired to arrive at it without the help of some
 transcendental power and its kind assistance. Salvation was not to be
-found in man's own nature, but in a world beyond that of the senses.
+found in man’s own nature, but in a world beyond that of the senses.
 Philosophy could not satisfy the cultured man by the presentation of its
 ethical ideal of life, could not secure for him the promised happiness.
 Philosophy, therefore, turned to religion for help. At Alexandria,
@@ -4404,8 +4405,8 @@ to the peculiar phase of thought prevalent in Alexandria during the
 first centuries of our era. It was tinctured with idealistic, mystic,
 and yet speculative and scientific colours. Hence the religious spirit
 in philosophy and the philosophic tendency in the religious system that
-are the characteristic features. "East and West," says Baldwin,* "met
-at Alexandria." The co-operative ideas of civilisations, cultures,
+are the characteristic features. “East and West,” says Baldwin,* “met
+at Alexandria.” The co-operative ideas of civilisations, cultures,
 and religions of Rome, Greece, Palestine, and the farther East found
 themselves in juxtaposition. Hence arose a new problem, developed partly
 by Occidental thought, partly by Oriental aspiration. Religion and
@@ -4425,15 +4426,15 @@ viewed, they are to be characterised as theosophical rather than purely
 philosophical, purely religious, or purely theological.
 
 The reign of Constantine the Great, who became sole ruler of the East
-and West in 323, after ten years' joint government with Licinius, is
+and West in 323, after ten years’ joint government with Licinius, is
 remarkable for the change which was then wrought in the religion and
-philosophy of the empire by the emperor's embracing the Christian
+philosophy of the empire by the emperor’s embracing the Christian
 faith. His conversion occurred in 312, and on his coming to the united
 sovereignty the Christians were at once released from every punishment
 and disability on account of their religion, which was then more than
 tolerated; they were put upon a nearly equal footing with the pagans,
 and every minister of the Church was released from the burden of
-civil and military duties. Whether the emperor's conversion arose from
+civil and military duties. Whether the emperor’s conversion arose from
 education, from conviction, or from state policy, we have no means of
 knowing; but Christianity did not reach the throne before it was the
 religion of a most important class of his subjects, and the Egyptian
@@ -4442,7 +4443,7 @@ Christians heretics, as the Greek Christians had already begun to
 designate the Jewish.
 
 The Greeks of Alexandria had formed rather a school of philosophy than
-a religious sect. Before Alexander's conquest the Greek settlers
+a religious sect. Before Alexander’s conquest the Greek settlers
 at Naucratis had thought it necessary to have their own temples and
 sacrifices; but since the building of Alexandria they had been smitten
 with the love of Eastern mysticism, and content to worship in the
@@ -4496,7 +4497,7 @@ others not quite so metaphysical were brought to the ears of the emperor
 by Alexander, Bishop of Alexandria, and Arius, the presbyter. The bishop
 had been enquiring into the belief of the presbyter, and the latter
 had argued against his superior and against the doctrine of the
-_consubstantiality_ of the Father and the Son. The emperor's letter
+_consubstantiality_ of the Father and the Son. The emperor’s letter
 to the theologians, in this first ecclesiastical quarrel that was ever
 brought before a Christian monarch, is addressed to Alexander and Arius,
 and he therein tells them that they are raising useless questions, which
@@ -4540,7 +4541,7 @@ against the friends of his own Greek government in Alexandria.
 
 After a reasonable delay, Arius addressed to the emperor a letter either
 of explanation or apology, asserting his full belief in Christianity,
-explaining his faith by using the words of the Apostles' Creed, and
+explaining his faith by using the words of the Apostles’ Creed, and
 begging to be re-admitted into the Church. The emperor, either from a
 readiness to forgive, or from a change of policy, or from an ignorance
 of the theological controversy, was satisfied with the apology, and
@@ -4554,7 +4555,7 @@ to obey the commands of the emperor, alleging that it was unlawful
 to re-admit into the Church anybody who had once been excommunicated.
 Constantine could hardly be expected to listen to this excuse, or
 to overlook this direct refusal to obey his orders. The rebellious
-Athanasius was ordered into the emperor's presence at Constantinople,
+Athanasius was ordered into the emperor’s presence at Constantinople,
 and soon afterwards, in 335, called before a council of bishops at Tyre,
 where he was deposed and banished. At the same council, in the thirtieth
 year of this reign, Arius was re-admitted into communion with the
@@ -4766,7 +4767,7 @@ manners, and more particularly by his following in the steps of
 Alexander, the late bishop, in claiming new and higher powers for
 the office of patriarch than had ever been yielded to the bishops of
 Alexandria before their spiritual rank had been changed into civil rank
-by the emperor's adoption of their religion. Meletius headed a strong
+by the emperor’s adoption of their religion. Meletius headed a strong
 party of bishops, priests, and deacons in opposing the new claims of the
 archiepiscopal see of Alexandria. His followers differed in no point of
 doctrine from the Athanasian party, but as they sided with the Arians
@@ -4774,7 +4775,7 @@ they were usually called heretics.
 
 By this time the statesmen and magistrates had gained a clear view of
 the change which had come over the political state of the empire, first
-by the spread of Christianity, and secondly by the emperor's embracing
+by the spread of Christianity, and secondly by the emperor’s embracing
 it. By supporting Christianity the emperors gave rank in the state to
 an organised and well-trained body, which immediately found itself in
 possession of all the civil power. A bishopric, which a few years before
@@ -4794,7 +4795,7 @@ wrote word to Athanasius, as if in answer to a request from the bishop,
 that he was at liberty, if he wished, to visit Italy; but he sent the
 letter by the hands of the notary Diogenes, who added, by word of
 mouth, that the permission was meant for a command, and that it was the
-emperor's pleasure that he should immediately quit his bishopric and the
+emperor’s pleasure that he should immediately quit his bishopric and the
 province. But this underhand conduct of the emperor only showed his own
 weakness. Athanasius steadily refused to obey any unwritten orders, and
 held his bishopric for upwards of two years longer, before Constantius
@@ -4810,23 +4811,23 @@ prefect again delivered to him the command of Constantius, that he
 should quit Egypt and retire into banishment, and he threatened to carry
 this command into execution by the help of the troops if he met with any
 resistance. Athanasius, without refusing to obey, begged to be shown the
-emperor's orders in writing; but this reasonable request was refused. He
+emperor’s orders in writing; but this reasonable request was refused. He
 then entreated them even to give him, in their own handwriting, an order
 for his banishment; but this was also refused, and the citizens,
-who were made acquainted with the emperor's wishes and the bishop's
+who were made acquainted with the emperor’s wishes and the bishop’s
 firmness, waited in dreadful anxiety to see whether the prefect and the
 general would venture to enforce their orders. The presbytery of the
 church and the corporation of the city went up to Syrianus in solemn
 procession to beg him either to show a written authority for the
 banishment of their bishop, or to write to Constantinople to learn the
-emperor's pleasure. To this request Syrianus at last yielded, and gave
+emperor’s pleasure. To this request Syrianus at last yielded, and gave
 his word to the friends of Athanasius that he would take no further
 steps till the return of the messengers which he then sent to
 Constantinople.
 
 But Syrianus had before received his orders, which were, if possible, to
 frighten Athanasius into obedience, and, if that could not be done, then
-to employ force, but not to expose the emperor's written commands to the
+to employ force, but not to expose the emperor’s written commands to the
 danger of being successfully resisted. He therefore only waited for an
 opportunity of carrying them into effect; and at midnight, on the ninth
 of February, A.D. 356, twenty-three days after the promise had been
@@ -4898,7 +4899,7 @@ to trade with Egypt; and, as he found them willing to listen to his
 arguments, he came home to Alexandria to tell of his success and ask
 for support. Athanasius readily entered into a plan for spreading the
 blessings of Christianity and the power of the Alexandrian church. To
-increase the missionary's weight he consecrated him a bishop, and sent
+increase the missionary’s weight he consecrated him a bishop, and sent
 him back to Auxum to continue his good work. His progress, however, was
 somewhat checked by sectarian jealousy; for, when Athanasius was deposed
 by Constantius, Frumentius was recalled to receive again his orders and
@@ -4949,7 +4950,7 @@ same time; but a full account of the miracles which were said to have
 been worked in their favour, or by their means, would now only call
 forth a smile of pity, or perhaps even of ridicule.
 
-"Prosperity and peace," says Gibbon, "introduced the distinction of the
+“Prosperity and peace,” says Gibbon, “introduced the distinction of the
 vulgar and the ascetic Christians. The loose and imperfect practice
 of religion satisfied the conscience of the multitude. The prince or
 magistrate, soldier or merchant, reconciled their fervent zeal, and
@@ -4986,7 +4987,7 @@ associates. Antony, an illiterate youth of the lower part of The-baid,
 distributed his patrimony, deserted his family and native home, and
 executed his monastic penance with original and intrepid fanaticism.
 After a long and painful novitiate among the tombs and in a ruined
-tower, he boldly advanced into the desert three days' journey to the
+tower, he boldly advanced into the desert three days’ journey to the
 eastward of the Nile; discovered a lonely spot, which possessed the
 advantages of shade and water, and fixed his last residence on Mount
 Colzim near the Red Sea, where an ancient monastery still preserves the
@@ -5012,7 +5013,7 @@ The stately and populous city of Oxyrrhynchos, the seat of Christian
 orthodoxy, had devoted the temples, the public edifices, and even the
 ramparts, to pious and charitable uses, and the bishop, who might preach
 in twelve churches, computed ten thousand females and twenty thousand
-males of the monastic profession."
+males of the monastic profession.”
 
 The monks borrowed many of their customs from the old Egyptian priests,
 such as shaving the head; and Athanasius in his charge to them orders
@@ -5023,7 +5024,7 @@ strength of body enabled them to fast longest not to boast of it. But he
 orders them not even to speak to a woman, and wishes them not to bathe,
 as being an immodest act. The early Christians, as being a sect of Jews,
 had followed many Jewish customs, such as observing the Sabbath as well
-as the Lord's day; but latterly the line between the two religions had
+as the Lord’s day; but latterly the line between the two religions had
 been growing wider, and Athanasius orders the monks not to keep holy the
 Jewish Sabbath. After a few years their religious duties were clearly
 laid down for them in several well-drawn codes.
@@ -5050,7 +5051,7 @@ Roman faith as taught by the apostles. Under Didymus, who was then the
 head of the catechetical school, Jerome pursued his studies, having
 the same religious opinions with the Egyptian, and the same dislike
 to Arianism. But no dread of heresy stopped Jerome in his search for
-knowledge and for books. He obtained copies of the whole of Origen's
+knowledge and for books. He obtained copies of the whole of Origen’s
 works, and read them with the greatest admiration. It is true that he
 finds fault with many of his opinions; but no admirer of Origen could
 speak in higher terms of praise of his virtues and his learning, of
@@ -5088,7 +5089,7 @@ Some of these letters on parchment had been taken from the temple by
 informers, and carried to the emperor, whose ears were never deaf to a
 charge against the pagans. On this accusation numbers of all ranks were
 dragged out of Egypt, to be tried and punished in Syria, with torture
-and forfeiture of goods. Such indeed was the nation's belief in these
+and forfeiture of goods. Such indeed was the nation’s belief in these
 oracles and prophecies that it gave to the priests a greater power than
 it was safe to trust them with. By prophesying that a man was to be an
 emperor, they could make him a traitor, and perhaps raise a village in
@@ -5153,7 +5154,7 @@ for his mis-government during the last reign.
 
 While Artemius was on his trial the pagans of Alexandria remained quiet,
 and in daily fear of his return to power, for after their treatment
-at Chalcedon they by no means felt sure of what would be the emperor's
+at Chalcedon they by no means felt sure of what would be the emperor’s
 policy in matters of religion; but they no sooner heard of the death of
 Artemius than they took it as a sign that they had full leave to revenge
 themselves on the Christians. The mob rose first against the Bishop
@@ -5310,13 +5311,13 @@ ships some distance out at sea. The great statue of Serapis, which had
 been made under the Ptolemies, having perhaps marble feet, but for the
 rest built of wood, clothed with drapery, and glittering with gold and
 silver, stood in one of the covered chambers, which had a small window
-so contrived as to let the sun's rays kiss the lips of the statue on the
+so contrived as to let the sun’s rays kiss the lips of the statue on the
 appointed occasions. This was one of the tricks employed in the sacred
 mysteries, to dazzle the worshipper by the sudden blaze of light which
 on the proper occasions was let into the dark room. The temple itself,
 with its fountain, its two obelisks, and its gilt ornaments, has long
 since been destroyed; and the column in the centre, under the name of
-Pompey's Pillar, alone remains to mark the spot where it stood, and is
+Pompey’s Pillar, alone remains to mark the spot where it stood, and is
 one of the few works of Greek art which in size and strength vie with
 the old Egyptian monuments.
 
@@ -5380,7 +5381,7 @@ returned in triumph. The temporal power of the Church was in its
 infancy; it only rose upon the conversion of Constantine, and it was
 weak compared to what it became in after ages; but, when the Emperor
 of Germany did penance barefoot before Pope Hildebrand, and a king of
-England was whipped at Becket's tomb, we only witness the full-grown
+England was whipped at Becket’s tomb, we only witness the full-grown
 strength of the infant power that was being reared by the Bishop of
 Alexandria. His writings are numerous and wholly controversial, chiefly
 against the Arians. The Athanasian creed seems to have been so named
@@ -5458,7 +5459,7 @@ carried fire in his bosom without burning his clothes. Elias spent
 seventy years in solitude on the borders of the Arabian desert near
 Antinoopolis. Apelles was a blacksmith near Achoris; he was tempted
 by the devil in the form of a beautiful woman, but he scorched the
-tempter's face with a red-hot iron. Dorotheus, who though a Theban had
+tempter’s face with a red-hot iron. Dorotheus, who though a Theban had
 settled near Alexandria, mortified his flesh by trying to live without
 sleep. He never willingly lay down to rest, nor indeed ever slept till
 the weakness of the body sunk under the efforts of the spirit. Paul,
@@ -5493,7 +5494,7 @@ the places where the people met in public, they made a profession of
 their faith by the choice of which horses they bet on; and Christians
 and pagans alike showed their zeal for religion by hooting and clapping
 of hands. Prayers and superstitious ceremonies were used on both
-sides to add to the horses' speed; and the monk Hilarion, the pupil of
+sides to add to the horses’ speed; and the monk Hilarion, the pupil of
 Anthony, gained no little credit for sprinkling holy water on the horses
 of his party, and thus enabling Christianity to outrun paganism in the
 hippodrome at Gaza.
@@ -5504,7 +5505,7 @@ the tribute in kind. More could be squeezed out of a ruined people by
 taking what they had to give than by requiring it to be paid in copper
 coin. Hence Valons made a law that no tribute throughout the empire
 should be taken in money; and he laid a new land-tax upon Egypt, to the
-amount of a soldier's clothing for every thirty acres.
+amount of a soldier’s clothing for every thirty acres.
 
 The Saracens* had for some time past been encroaching on the Eastern
 frontiers of the empire, and had only been kept back by treaties which
@@ -5532,7 +5533,7 @@ Thebaid. After this advance of the barbarians the interesting city
 of Petra, which since the time of Trajan had been in the power or the
 friendship of Rome or Constantinople, was lost to the civilised world.
 This rocky fastness, which was ornamented with temples, a triumphal
-arch, and a theatre, and had been a bishop's see, was henceforth
+arch, and a theatre, and had been a bishop’s see, was henceforth
 closed against all travellers; it had no place in the map till it was
 discovered by Burckhardt in our own days without a human being dwelling
 in it, with oleanders and tamarisks choking up its entrance through
@@ -5716,12 +5717,12 @@ Alexandria, the learning of that city was wholly in the hands of the
 pagans, and was chiefly mathematical. Diophantus of Alexandria is the
 earliest writer on algebra whose works are now remaining to us, and has
 given his name to the Diophantine problems. Pappus wrote a description
-of the world, and a commentary on Ptolemy's _Almagest_, beside a work
+of the world, and a commentary on Ptolemy’s _Almagest_, beside a work
 on geometry, published under the name of his _Mathematical Collections_.
 Theon, a professor in the museum, wrote on the smaller astrolabe--the
 instrument then used to measure the star orbits--and on the rise of the
 Nile, a subject always of interest to the mathematicians of Egypt, from
-its importance to the husbandman. From Theon's astronomical observations
+its importance to the husbandman. From Theon’s astronomical observations
 we learn that the Alexandrian astronomers still made use of the old
 Egyptian movable year of three hundred and sixty-five days only, and
 without a leap-year. Paul the Alexandrian astrologer, on the other hand,
@@ -5773,7 +5774,7 @@ educated, and it suited the policy of Theophilus to side with the more
 ignorant and larger party. He branded with the name of Origenists those
 who argued that God was without form, and who quoted the writings of
 Origen in support of their opinion. This naturally led to a dispute
-about Origen's orthodoxy; and that admirable writer, who had been
+about Origen’s orthodoxy; and that admirable writer, who had been
 praised by all parties for two hundred years, and who had been quoted as
 authority as much by Athanasius as by the Arians, was declared to be a
 heretic by a council of bishops. The writings of Origen were accordingly
@@ -5815,7 +5816,7 @@ sanctify their churches.
 
 We have traced the fall of the Greek party in Alexandria, in the
 victories over the Arians during the religious quarrels of the last
-hundred years; and in the laws we now read the city's loss of wealth
+hundred years; and in the laws we now read the city’s loss of wealth
 and power. The corporation of Alexandria was no longer able to bear the
 expense of cleansing the river and keeping open the canals; and four
 hundred _solidi_--about twelve hundred dollars--were each year set apart
@@ -5929,7 +5930,7 @@ had more hearers among the Greek friends of the prefect than among the
 ignorant followers of the bishop, she became an object of jealousy with
 the Homoousian party. A body of these Christians, says the orthodox
 historian, attacked this admirable woman in the street; they dragged
-her from her chariot, and hurried her off into the church named Cæsar's
+her from her chariot, and hurried her off into the church named Cæsar’s
 temple, and there stripped her and murdered her with some broken tiles.
 She had written commentaries on the mathematical works of Diophantus,
 and on the conic sections of Apollonius. The story of her life has been
@@ -5945,7 +5946,7 @@ George became a favourite saint with the Greeks in Egypt, and in those
 spots where the Greek soldiers were masters of the churches this Arian
 and unpopular bishop was often painted on the walls riding triumphantly
 on horseback and slaying the dragon of Athanasian error. On the other
-hand, in Alexandria, where his rival's politics and opinions held the
+hand, in Alexandria, where his rival’s politics and opinions held the
 upper hand, the monastery of St. Athanasius was built in the most public
 spot in the city, probably that formerly held by the Soma or royal
 burial-place; and in Thebes a cathedral church was dedicated to St.
@@ -6000,7 +6001,7 @@ their rules, and he has left a history of the lives of many of those
 holy men and woman, addressed to his friend Lausus.
 
 When Nestorius was deposed from the bishopric of Constantinople for
-refusing to use the words "Mother of God" as the title of Jesus'
+refusing to use the words “Mother of God” as the title of Jesus’
 mother, and for falling short in other points of what was then thought
 orthodoxy, he was banished to Hibe in the Great Oasis. While he was
 living there, the Great Oasis was overrun by the Blemmyes, the Roman
@@ -6035,7 +6036,7 @@ they painted in its place the Apostle Peter holding the key in his hand.
 
 They did not alter the rest of the sculpture; so that Ramses II. is
 there now seen presenting his offering to the Christian saint. The mixed
-group gives us proof of the nation's decline in art rather than of its
+group gives us proof of the nation’s decline in art rather than of its
 improvement in religion.
 
 Among the monks of Egypt there were also some men of learning and
@@ -6107,7 +6108,7 @@ Nilus, a monk who had left his family in Egypt, to spend his life in
 prayer and study on the spot where Moses was appointed the legislator
 of Israel, describes these attacks upon his brethren, and he boasts over
 the Israelites that, notwithstanding their sufferings, the monks spent
-their whole lives cheerfully in those very deserts which God's chosen
+their whole lives cheerfully in those very deserts which God’s chosen
 people could not even pass through without murmuring. Nilus has left
 some letters and exhortations. It was then, probably, that the numerous
 inscriptions were made on the rocks at the foot of Mount Serbal, and on
@@ -6138,7 +6139,7 @@ a civic office for thirty years, were freed from all bodily punishment,
 and only to be fined when convicted of a crime. Theodosius built a
 large church in Alexandria, which was called after his name; and the
 provincial judges were told in a letter to the prefect that, if they
-wished to earn the emperor's praise, they must not only restore those
+wished to earn the emperor’s praise, they must not only restore those
 buildings which were falling through age and neglect but must also build
 new ones.
 
@@ -6146,9 +6147,9 @@ Though the pagan philosophy had been much discouraged at Alexandria by
 the destruction of the temples and the cessation of the sacrifices, yet
 the philosophers were still allowed to teach in the schools. Syrianus
 was at the head of the Platonists, and he wrote largely on the Orphic,
-Pythagorean, and Platonic doctrines. In his Commentary on Aristotle's
+Pythagorean, and Platonic doctrines. In his Commentary on Aristotle’s
 Metaphysics he aims at showing how a Pythagorean or a Platonist would
-successfully answer Aristotle's objections. He seems to look upon the
+successfully answer Aristotle’s objections. He seems to look upon the
 writings of Plotinus, Porphyry, and Iamblichus as the true fountains of
 Platonic wisdom, quite as much as the works of the great philosopher
 who gave his name to the sect. Syrianus afterwards removed to Athens, to
@@ -6217,20 +6218,20 @@ upon paper, would have made Theodosius II. as powerful as Augustus. But
 the number of Greek and Roman troops was small. The rest were barbarians
 who held their own lives at small price, and the lives of the unhappy
 Egyptians at still less. The Greeks were only a part of the fifth
-Macedonian legion, and Trajan's second legion, which were stationed at
+Macedonian legion, and Trajan’s second legion, which were stationed at
 Memphis, at Parembole, and at Apollinopolis; while from the names of
 the other cohorts we learn that they were Franks, Portuguese, Germans,
 Quadri, Spaniards, Britons, Moors, Vandals, Gauls, Sarmati, Assyrians,
 Galatians, Africans, Numid-ians, and others of less known and more
 remote places. Egypt itself furnished the Egyptian legion, part of which
-was in Mesopotamia, Diocletian's third legion of Thebans, the first
-Maximinian legion of Thebans which was stationed in Thrace, Constantine's
-second Flavian legion of Thebans, Valens' second Felix legion of
+was in Mesopotamia, Diocletian’s third legion of Thebans, the first
+Maximinian legion of Thebans which was stationed in Thrace, Constantine’s
+second Flavian legion of Thebans, Valens’ second Felix legion of
 Thebans, and the Julian Alexandrian legion, stationed in Thrace. Beside
 these, there were several bodies of native militia, from Abydos, Syênê,
 and other cities, which were not formed into legions. The Egyptian
 cavalry were a first and second Egyptian troop, several bodies of native
-archers mounted, three troops on dromedaries, and a body of Diocletian's
+archers mounted, three troops on dromedaries, and a body of Diocletian’s
 third legion promoted to the cavalry. These Egyptian troops were chiefly
 Arab settlers in the Thebaid, for the Kopts had long since lost the use
 of arms. The Kopts were weak enough to be trampled on; but the Arabs
@@ -6290,7 +6291,7 @@ Christ, and for maintaining that he was truly God, and in no respect
 a man. This was the opinion of the Egyptian church, and therefore
 Dioscorus, the Bishop of Alexandria, who had no right whatever to meddle
 in the quarrels at Constantinople, yet, acting on the forgotten rule
-that each bishop's power extended over all Christendom, undertook of
+that each bishop’s power extended over all Christendom, undertook of
 his own authority to absolve Eutyches from his excommunication, and in
 return to excommunicate the Bishop of Constantinople who had condemned
 him. To settle this quarrel, a general council was summoned at
@@ -6405,7 +6406,7 @@ Proterius, and deposed him from his office. To fill his place they made
 choice of a monk named Timotheus Ælurus, who held the Jacobite faith,
 and, having among them two deposed bishops, they got them to ordain him
 Bishop of Alexandria, and then led him by force of arms into the great
-church which had formerly been called Caesar's temple. Upon hearing
+church which had formerly been called Caesar’s temple. Upon hearing
 of the rebellion, the prefect returned in haste to Alexandria; but
 his approach was only the signal for greater violence, and the enraged
 people murdered Proterius in the baptistery, and hung up his body at the
@@ -6413,7 +6414,7 @@ Tetrapylon in mockery. This was not a rebellion of the mob. Timotheus
 was supported by the men of chief rank in the city; the _Honorati_ who
 had borne state offices, the _Politici_ who had borne civic offices,
 and the _Navicularii_, or contractors for the freight of the Egyptian
-tribute, were all opposed to the emperor's claim to appoint the officer
+tribute, were all opposed to the emperor’s claim to appoint the officer
 whose duties were much more those of prefect of the city than patriarch
 of Egypt. With such an opposition as this, the emperor would do nothing
 without the greatest caution, for he was in danger of losing Egypt
@@ -6422,7 +6423,7 @@ ecclesiastical matters that this political struggle wholly took the form
 of a dispute in controversial divinity, and the emperor wrote a
 letter to the chief bishops in Christendom to ask their advice in
 his difficulty. These theologians were too busily engaged in their
-controversies to take any notice of the danger of Egypt's revolting from
+controversies to take any notice of the danger of Egypt’s revolting from
 the empire and joining the Persians; so they strongly advised Leo not to
 depart from the decrees of the council of Chalcedon, or to acknowledge
 as Bishop of Alexandria a man who denied the two natures of Christ.
@@ -6461,7 +6462,7 @@ Zeno, who regained the throne.
 As soon as Zeno was again master of the empire, he re-established the
 creed of the council of Chalcedon, and drove away the Jacobite bishops
 from their bishoprics. Death, however, removed Timotheus Ælurus before
-the emperor's orders were put in force in Alexandria, and the Egyptians
+the emperor’s orders were put in force in Alexandria, and the Egyptians
 then chose Peter Mongus as his successor, in direct opposition to the
 orders from Constantinople. But the emperor was resolved not to be
 beaten; the bishopric of Alexandria was so much a civil office that to
@@ -6478,11 +6479,11 @@ church of John the Baptist, as their ambassador to Constantinople, not
 to remonstrate against the late acts of the emperor, but to beg that on
 future occasions the Alexandrians might be allowed the old privilege of
 choosing their own bishop. The Emperor Zeno seems to have seen through
-the ambassador's earnestness, and he first bound him by an oath not to
+the ambassador’s earnestness, and he first bound him by an oath not to
 accept the bishopric if he should even be himself chosen to it, and
 he then sent him back with the promise that the Alexandrians should
 be allowed to choose their own patriarch on the next vacancy. But
-unfortunately John's ambition was too strong for his oath, and on the
+unfortunately John’s ambition was too strong for his oath, and on the
 death of Timotheus, which happened soon afterwards, he spent a large
 sum of money in bribes among the clergy and chief men of the city, and
 thereby got himself chosen patriarch. On this, the emperor seems to have
@@ -6510,7 +6511,7 @@ when banished by Zeno, like many of the former deposed bishops, fled to
 Rome for comfort and for help. There he met with the usual support; and
 Felix, Bishop of Rome, wrote to Constantinople, remonstrating with Zeno
 for dismissing the patriarch. But this was only a small part of the
-emperor's want of success in his attempt at peace-making; for the crafty
+emperor’s want of success in his attempt at peace-making; for the crafty
 Peter, who had gained the bishopric by subscribing to the peace-making
 edict, was no sooner safely seated on his episcopal throne than he
 denounced the council of Chalcedon and its decrees as heretical, and
@@ -6539,8 +6540,8 @@ he ever wrote against it. There he bore a public scourging from his
 Christian torturers, with a courage equal to that formerly shown by
 their forefathers when tortured by his. When some of the blood from
 his shoulders flew into his hand, he held it out in scorn to the judge,
-saying with Ulysses, "Cyclops, since human flesh has been thy food, now
-taste this wine." After his punishment he was banished, but was soon
+saying with Ulysses, “Cyclops, since human flesh has been thy food, now
+taste this wine.” After his punishment he was banished, but was soon
 allowed to return to Alexandria, and there he again taught openly as
 before. Paganism never wears so fair a dress as in the writings of
 Hierocles; his commentary on the Golden Verses of the Pythagoreans is
@@ -6562,7 +6563,7 @@ superstition, as when making use of a green jasper set in a ring; but he
 observes that the patients recovered as soon when the stone was plain
 as when a dragon was engraved upon it according to the recommendation of
 Nechepsus. In Nile water he finds every virtue, and does not forget dark
-paint for the ladies' eyebrows, and Cleopatra-wash for the face.
+paint for the ladies’ eyebrows, and Cleopatra-wash for the face.
 
 Anastasius, the next emperor, succeeding in 491, followed the wise
 policy which Zeno had entered upon in the latter years of his reign,
@@ -6578,12 +6579,12 @@ during a long reign.
 The election of Dioscorus, however, the third patriarch of this
 reign, was not brought about peaceably. He was the cousin of a former
 patriarch, Timotheus Ælurus, which, if we view the bishopric as a civil
-office, might be a reason for the emperor's wishing him to have the
+office, might be a reason for the emperor’s wishing him to have the
 appointment. But it was no good reason with the Alexandrians, who
 declared that he had not been chosen according to the canons of the
 apostles; and the magistrates of the city were forced to employ the
 troops to lead him in safety to his throne. After the first ceremony, he
-went, as was usual at an installation, to St. Mark's Church, and
+went, as was usual at an installation, to St. Mark’s Church, and
 there the clergy robed him in the patriarchal state robes. The grand
 procession then moved through the streets to the church of St. John,
 where the new bishop went through the communion service. But the city
@@ -6642,7 +6643,7 @@ gymnasium.
 
 [Illustration: 291.jpg ILLUSTRATIONS FROM COPY OF DIOSCORIDE]
 
-The poet's song, like the traveller's tale, often related the wonders
+The poet’s song, like the traveller’s tale, often related the wonders
 of the river Nile. The overflowing waters first manured the fields, and
 then watered the crops, and lastly carried the grain to market; and one
 writer in the Anthology, to describe the country life in Egypt, tells
@@ -6683,7 +6684,7 @@ prosperous than these, had latterly been sadly neglected with the other
 buildings of the country. For more than seven hundred years, the
 pilot on approaching this flat shore after dark had pointed out to his
 shipmate what seemed a star on the horizon, and comforted him with the
-promise of a safe entrance into the haven, and told him of Alexander's
+promise of a safe entrance into the haven, and told him of Alexander’s
 tower. But the waves breaking against its foot had long since carried
 away the outworks, and laid bare the foundations; the wall was
 undermined and its fall seemed close at hand. The care of Anastasius,
@@ -6699,7 +6700,7 @@ and in the task of defending the empire against the Persians. And this
 task became every year more difficult, as the Greek population of his
 Egyptian and Asiatic provinces fell off in numbers. For some years after
 the division of the empire under the sons of Constantine, Antioch in
-Syria had been the capital from which Alexandria received the emperor's
+Syria had been the capital from which Alexandria received the emperor’s
 commands. The two cities became very closely united; and now that the
 Greeks were deserting Antioch, a part of the Syrian church began to
 adopt the more superstitious creed of Egypt. Severus, Bishop of Antioch,
@@ -6720,7 +6721,7 @@ took part against his own more superstitious flock, and sided with
 his friend, the Bishop of Antioch. Severus has left us, in the Syriac
 language, the baptismal service as performed in Egypt. The priest
 breathes three times into the basin to make the water holy, he makes
-three crosses on the child's forehead, he adjures the demons of
+three crosses on the child’s forehead, he adjures the demons of
 wickedness to quit him, he again makes three crosses on his forehead
 with oil, he again blows three times into the water in the form of a
 cross, he anoints his whole body with oil, and then plunges him in the
@@ -6733,7 +6734,7 @@ Syriac.
 
 Justin, the new emperor, again lighted up in Alexandria the flames
 of discord which had been allowed to slumber since the publication of
-Zeno's peace-making edict. But in the choice of the bishop he was not
+Zeno’s peace-making edict. But in the choice of the bishop he was not
 able to command without a struggle. In the second year of his reign, on
 the death of Timotheus, the two parties again found themselves nearly
 equal in strength; and Alexandria was for several years kept almost in a
@@ -6765,7 +6766,7 @@ chariot drawn by four elephants; he wore no clothing but a cloth of gold
 around his loins; his arms were laden with costly armlets and bracelets;
 he held a shield and two spears in his hands, and his nobles stood
 around him armed, and singing to his honour. When the ambassador
-delivered the emperor's letter, Arethas kissed the seal, and then kissed
+delivered the emperor’s letter, Arethas kissed the seal, and then kissed
 Julianus himself. He accepted the gifts which Justin had sent, and
 promised to move his forces northward against the Persians as requested,
 and also to keep the route open for the trade to Alexandria.
@@ -6799,9 +6800,9 @@ force with which he had entered the city; they pelted him with a shower
 of stones from every corner of the church, and he was forced to withdraw
 from the building in order to save his life. But three days afterwards
 the bells were rung through the city, and the people were summoned to
-meet in the church on the following Sunday, to hear the emperor's letter
+meet in the church on the following Sunday, to hear the emperor’s letter
 read. When Sunday came the whole city flocked to hear and to disobey
-Justinian's orders. Apollinarius began his address by threatening his
+Justinian’s orders. Apollinarius began his address by threatening his
 hearers that, if they continued obstinate in their opinions, their
 children should be made orphans and their widows given up to the
 soldiery; and he was as before stopped with a shower of stones. But this
@@ -6966,7 +6967,7 @@ these nations at the southern end of the Red Sea; to the Homeritae,
 to persuade them to attack the Persian forces in Arabia, and to the
 Hexumitae, for the encouragement of trade. Justinian also sent an
 embassy to the Homeritae under Abram; and, as he was successful in his
-object, he entrusted a second embassy to Abram's son. Nonnosus landed
+object, he entrusted a second embassy to Abram’s son. Nonnosus landed
 at Adule on the Abyssinian coast, and then travelled inward for fifteen
 days to Auxum, the capital. This country was then called Ethiopia; it
 had gained the name which before belonged to the valley of the Nile
@@ -7012,7 +7013,7 @@ the Word or Son, which was then the orthodox view of this mysterious
 doctrine. On the other hand, the Jew quoted the Old Testament to show
 that the Lord their God was one Lord. It is related that suddenly the
 Jews present were struck blind. Their sight, however, was restored to
-them on the bishop's praying for them; and they were then all thereby
+them on the bishop’s praying for them; and they were then all thereby
 converted and baptised on the spot. The king stood godfather to Herban,
 and rewarded him with a high office under his government.
 
@@ -7051,7 +7052,7 @@ six hundred men, who were to secure the obedience and put down any
 rebellion of the Egyptian and barbarian soldiers. The somewhat high
 pay and privileges of this favoured troop were to be increased; and, to
 secure its loyalty and to keep out Egyptians, nobody was to be admitted
-into it till his fitness had been inquired into by the emperor's
+into it till his fitness had been inquired into by the emperor’s
 examiners. The first duty of the cohort was to collect the supply of
 grain for Constantinople and to see it put on board the ships; and as
 for the supply which was promised to the Alexandrians, the magistrates
@@ -7123,7 +7124,7 @@ ever teaching the British to venture so far from their native shores.
 The suffering and riotous citizens made Alexandria a very unpleasant
 place of abode for the prefect and magistrates. They therefore built
 palaces and baths for their own use, at the public cost, at Taposiris,
-about a day's journey to the west of the city, at a spot yet marked
+about a day’s journey to the west of the city, at a spot yet marked
 by the remains of thirty-six marble columns, and a lofty tower, once
 perhaps a lighthouse. At the same time it became necessary to fortify
 the public granaries against the rebellious mob. The grain was brought
@@ -7159,7 +7160,7 @@ fear the houses should fall upon them.
 
 The reign of Justinian is remarkable for another blow then given to
 paganism throughout the empire, or at least through those parts of the
-empire where the emperor's laws were obeyed.
+empire where the emperor’s laws were obeyed.
 
 [Illustration: 313.jpg A MODERN HOUSE IN THE DELTA AT ROSETTA]
 
@@ -7215,7 +7216,7 @@ though he was the imperial patriarch, and not acknowledged by the Koptic
 church, yet his opinions were disliked by the Greeks. On his death,
 which happened in about three years, they chose Peter, who held the
 Jacobite or Egyptian opinions, and whose name is not mentioned in the
-Greek lists of the patriarchs. Peter's death occurred in the same year
+Greek lists of the patriarchs. Peter’s death occurred in the same year
 as that of the emperor.
 
 Under Justinian we again find some small traces of a national coinage in
@@ -7427,14 +7428,14 @@ series of victories Muhammed prepared, in 629, for further conquests
 in Syria, but he died in 632 before they could be accomplished. His
 successors were known as caliphs, but from the very first his disciples
 quarrelled about the leadership, some affirming the rights of Ali,
-who had married Muhammed's daughter, Fatima, and others supporting
+who had married Muhammed’s daughter, Fatima, and others supporting
 the claims of Abu Bekr, his father-in-law. There was also a religious
 quarrel concerning certain oral traditions relating to the Koran, or
 the Muhammedan sacred scriptures. Those who accepted the tradition were
 known as Sunnites, and those who rejected it as Shiites, the latter
 being the supporters of Ali, both sects, however, being known as Moslems
 or Islamites. Omar, a Sunnite, obtained the leadership in 634, and
-proceeded to carry out the prophet's ambitious schemes of conquest.
+proceeded to carry out the prophet’s ambitious schemes of conquest.
 He subdued successively Syria, Palestine, and Phoenicia, and in 639
 directed operations against Egypt. The general in charge of this
 expedition was Amr, who led four thousand men against Pelusium, which
@@ -7443,13 +7444,13 @@ by the capture of Alexandria. Amr entered the city on December 22, 640,
 and he seems to have been surprised at his own success. He immediately
 wrote to the caliph a letter in which he says:
 
-"I have conquered the town of the West, and I cannot recount all it
+“I have conquered the town of the West, and I cannot recount all it
 contains within its walls. It contains four thousand baths and twelve
 thousand venders of green vegetables, four thousand Jews who pay
-tribute, and four thousand musicians and mountebanks."
+tribute, and four thousand musicians and mountebanks.”
 
 Amr was anxious to conciliate and gain the affection of the new subjects
-he had added to the caliph's empire, and during his short stay in
+he had added to the caliph’s empire, and during his short stay in
 Alexandria received them with kindness and personally heard and attended
 to their demands. It is commonly believed that in this period the
 Alexandrian Library was dismantled; but, as we have already seen, the
@@ -7475,23 +7476,23 @@ At first Amr granted this request without hesitation, but in his
 gratitude John the Grammarian expatiated so unwisely on the extreme
 rarity of the manuscripts and their inestimable value, that Amr, on
 reflection, feared he had overstepped his power in granting the learned
-man's request. "I will refer the matter to the caliph," he said,
+man’s request. “I will refer the matter to the caliph,” he said,
 and thereupon wrote immediately to Omar and asked the caliph for
 his commands concerning the disposition of the whole of the precious
 contents of the library.
 
-The caliph's answer came quickly. "If," he wrote, "the books contain
+The caliph’s answer came quickly. “If,” he wrote, “the books contain
 only what is in the book of God (the Koran), it is enough for us, and
 these books are useless. If they contain anything contrary to the holy
-book, they are pernicious. In any case, burn them."
+book, they are pernicious. In any case, burn them.”
 
 [Illustration: 327.jpg COIN OF OMAR]
 
 Amr wished to organise his new government, and, having left a sufficient
 garrison in Alexandria, he gave orders to the rest of his army to leave
-the camp in the town and to occupy the interior of Egypt. "Where shall
-we pitch our new camp?" the soldiers asked each other, and the answer
-came from all parts, "Round the general's tent." The army, in fact,
+the camp in the town and to occupy the interior of Egypt. “Where shall
+we pitch our new camp?” the soldiers asked each other, and the answer
+came from all parts, “Round the general’s tent.” The army, in fact,
 did camp on the banks of the Nile, in the vicinity of the modern Cairo,
 where Amr had ordered his tent to be left; and round this tent, which
 had become the centre of reunion, the soldiers built temporary huts
@@ -7574,7 +7575,7 @@ to the supplications that were addressed to him, and, turning out the
 usurper in his turn, recalled Benjamin from his long exile and replaced
 him on the patriarchal throne.
 
-But even here Amr's protection of the Koptic religion did not end.
+But even here Amr’s protection of the Koptic religion did not end.
 He opened the door of his Mussulman town, and allowed them to live
 in Fostât and to build churches there in the midst of the Mussulman
 soldiers, even when Islamism was still without a temple in the city, or
@@ -7621,8 +7622,8 @@ by supplying men and commodities when occasion demanded it. During the
 reign of Abd el-Malik in Egypt the only remarkable event there was the
 election, in 688, of the Jacobite Isaac as patriarch of Alexandria. The
 Koptic clergy give him no other claim to historical remembrance than
-the formulating of a decree ordaining "that the patriarch can only be
-inaugurated on a Sunday."
+the formulating of a decree ordaining “that the patriarch can only be
+inaugurated on a Sunday.”
 
 [Illustration: 335.jpg MOSQUE OF AMR]
 
@@ -7721,7 +7722,7 @@ bearing a tax. This exorbitant claim was carried out with an abusive
 and arbitrary sternness. A poor widow, the Oriental writers say, was
 travelling up the Nile with her son, having with her a correct passport,
 the payment of which had taken nearly all she possessed. The young man,
-while stretched along the boat to drink of the river's water, was seized
+while stretched along the boat to drink of the river’s water, was seized
 by a crocodile and swallowed, together with the passport he carried
 in his breast. The treasury officers insisted that the wretched widow
 should take a fresh one; and to obtain payment for it she sold all she
@@ -7738,7 +7739,7 @@ which finally established the Abbasid dynasty at Baghdad. Omar dying
 in the year 720, Yazid II., a son of Abd el-Malik, succeeded to the
 caliphate, and reigned for four years, history being for the most part
 silent as to the general condition of Egypt under these two caliphs.
-It is recorded that in the year 720, one of Yazid's brothers, by name
+It is recorded that in the year 720, one of Yazid’s brothers, by name
 Muhammed ibn Abd el-Malik, ruled over Egypt. The Kopts complained of his
 rule, and declared that during the whole reign of Yazid ibn Abd el-Malik
 the Christians were persecuted, crosses overthrown, and churches
@@ -7747,7 +7748,7 @@ destroyed.
 [Illustration: 341.jpg A CROCODILE USED AS A TALISMAN]
 
 Yazid was succeeded, in 724 A.D., by his brother Hisham, surnamed
-Abu'l-Walid, the fourth son of Abd el-Malik to occupy the throne of
+Abu’l-Walid, the fourth son of Abd el-Malik to occupy the throne of
 Islam, who, having been appointed by his brother as his successor, took
 possession of the throne on the very day of his death. Muhammed was
 replaced in Egypt by his cousin, Hassan ibn Yusuf, who only held office
@@ -7814,7 +7815,7 @@ as his administrative measures were oppressive.
 
 In the year 750 the Ommayads were supplanted by the Abbasids, who
 transferred the capital from Damascus to Baghdad. The first Abbasid
-caliph was Abu'l-Abbas, who claimed descent from Abbas, the uncle of
+caliph was Abu’l-Abbas, who claimed descent from Abbas, the uncle of
 Muhammed. The caliph Merwan II., the last of the Ommayads, in his flight
 from his enemies came to Egypt and sent troops from Fostât to hold
 Alexandria. He was now pursued to his death by the Abbasid general Salih
@@ -7824,7 +7825,7 @@ difficulty, and Egypt continued to be a province of the caliphate and
 was ruled by governors who were mostly Arabs or members of the Abbasid
 family.
 
-Abu'l-Abbas, after being inaugurated, began his rule by recalling all
+Abu’l-Abbas, after being inaugurated, began his rule by recalling all
 the provincial governors, whom he replaced by his kinsmen and partisans.
 He entrusted the government of Egypt to his paternal uncle, Salih ibn
 Ali, who had obtained the province for him. Salih, however, did not rule
@@ -7835,12 +7836,12 @@ patriarch was of the Jacobite sect and the forty-fifth successor of St.
 Mark: he held the office about three years. He in turn was succeeded by
 the patriarch Myna, a native of Semennud (the ancient Sebennytus).
 
-In the year 754 Abu'l-Abbas died at the age of thirty-two, after
+In the year 754 Abu’l-Abbas died at the age of thirty-two, after
 reigning four years, eight months, and twenty-six days, the Arabian
 historians being always very precise in recording the duration of the
 reign of the caliphs. He was the first of the caliphs to appoint a
 vizier, the Ommayad caliphs employing only secretaries during their
-administration. The successor of Abu'l-Abbas was his brother Abu
+administration. The successor of Abu’l-Abbas was his brother Abu
 Jafar, surnamed El-Man-sur. Three years after his accession he took the
 government of Egypt from his uncle, and in less than seven years Egypt
 passed successively through the hands of six different governors. These
@@ -7862,7 +7863,7 @@ predecessor. Such was the greed and rapacity of these governors that
 every industry was continually subjected to increased taxation; the
 working bricklayer, the vender of vegetables, the camel-driver, the
 gravedigger, all callings, even that of mendicant, were taxed, and the
-lower classes were reduced to eating dog's flesh and human remains. At
+lower classes were reduced to eating dog’s flesh and human remains. At
 the moment when Egypt, unable to support such oppression longer, was on
 the verge of insurrection, the welcome tidings of the death of El-Mansur
 arrived.
@@ -7920,7 +7921,7 @@ however, held the appointment of Governor of Egypt on three separate
 occasions, and of his third period Said ibn Batrik tells the following
 anecdote:
 
-"While Obaid Allah ibn el-Mahdi was ruling in Egypt," he relates, "he
+“While Obaid Allah ibn el-Mahdi was ruling in Egypt,” he relates, “he
 sent a beautiful young Koptic slave to his brother, the caliph, as a
 gift. The Egyptian odalisk so charmed the caliph that he fell violently
 in love with her. Suddenly, however, the favourite was laid prostrate
@@ -7933,7 +7934,7 @@ and cultivated other sciences. The patriarch set out for Baghdad,
 restored the favourite to health, and in reward received from the
 caliph an imperial diploma, which restored to the orthodox Christians
 or Melchites all those privileges of which they had been deprived by the
-Jacobite heretics since their union with the conqueror Amr ibn el-Asi."
+Jacobite heretics since their union with the conqueror Amr ibn el-Asi.”
 
 If this story be true, one cannot but perceive the plot skilfully laid
 and carried out by the powerful clergy, to whom any means, even the
@@ -7945,13 +7946,13 @@ restoration of their supremacy and the humiliation of their adversaries.
 The year 204 of the Hegira was memorable for the death of the Iman
 Muhammed ibn Idris, surnamed esh-Shafi. This celebrated doctor was the
 founder of one of the four orthodox sects which recognised the Moslem
-religion, and whose followers take the name "Shafites" from their chief.
+religion, and whose followers take the name “Shafites” from their chief.
 The Iman esh-Shafi died at Fostât when but forty-three years old. His
 dogmas are more especially followed in Egypt, where his sect is still
 represented and presided over by one of the four Imans at the head of
 the famous Mosque Jam el-Azar, or mosque of flowers.
 
-The distance of Egypt from Baghdad, the caliph's capital, was the cause
+The distance of Egypt from Baghdad, the caliph’s capital, was the cause
 of the neglect of many of his commands, and upon more than one occasion
 was his authority slighted. Thus it happened that for more than five
 years the government of Egypt was in the hands of Abd Allah ibn es-Sari,
@@ -7969,20 +7970,20 @@ brother el-Mutasim, third son of the Caliph Ilarun er-Rashid.
 In the year 218 of the Hegira (a. d. 833), Muhammed el-Mutasim succeeded
 his brother el-Mamun. He was the first caliph who brought the name of
 God into his surname. On ascending the throne, he assumed the title
-el-Mutasim b'lllah, that is "strengthened by God," and his example was
+el-Mutasim b’lllah, that is “strengthened by God,” and his example was
 followed by all his successors.
 
-From the commencement of this reign, el-Mutasim b'lllah was forced to
+From the commencement of this reign, el-Mutasim b’lllah was forced to
 defend himself against insurgents and aspirants to the caliphate. In
 the year 219 of the Hegira, Kindi, the Governor of Egypt, died, and the
 caliph named his son, Mudhaffar ibn Kindi, as his successor. Mudhaffar
 ibn Kindi, dying the following year, was succeeded by Musa, son of
-Abu'l-Abbas, surnamed esh-Shirbani by some writers, esh-Shami (the
+Abu’l-Abbas, surnamed esh-Shirbani by some writers, esh-Shami (the
 Syrian) by others. In the year 224 Musa was recalled and his place
 taken by Malik, surnamed by some el-Hindi (the Indian), by others ibn
 el-Kindi. A year later the caliph dismissed Malik, and sent Ashas to
 Egypt in his place. This was the last governor appointed by el-Mutasim
-b'lllah, for the caliph died of fever in the year 227 of the Hegira.
+b’lllah, for the caliph died of fever in the year 227 of the Hegira.
 
 Oriental historians have noticed that the numeral eight affected this
 caliph in a singular manner. Between himself and Abbas, the head of his
@@ -8043,7 +8044,7 @@ perceiving that their insolence was daily growing more insupportable to
 the inhabitants of Baghdad, resolved to leave the capital, rebuild the
 ancient city of Samarrah and again make it the seat of the empire.
 
-At this time the captain of the caliph's guard was one Tulun, a
+At this time the captain of the caliph’s guard was one Tulun, a
 freedman, whom fate would seem to have reduced to servitude for the
 purpose of showing that a slave might found a dynasty destined to rule
 over Egypt and Syria. Tulun belonged to the Toghus-ghur, one of the
@@ -8055,7 +8056,7 @@ Turkish horses, and other valuables. In the year 815 a. d., Tulun was
 among the slaves sent as tribute to the caliph, who, attracted by his
 bearing, enrolled him in his own body-guard.
 
-Before long he had so gained the caliph's confidence that Mamun gave him
+Before long he had so gained the caliph’s confidence that Mamun gave him
 his freedom and the command of the guard, at the same time appointing
 him Emir es-sitri, prince of the veil or curtain. This post, which was a
 mark of the greatest esteem, comprised the charge of the personal safety
@@ -8063,12 +8064,12 @@ of the sovereign, by continually keeping watch without the curtain or
 rich drapery which hung before the private apartments, and admitting no
 one without a special order. Tulun spent twenty years at the court of
 el-Mamun and of his successor, Mutasim, and became the father of several
-children, one of which, Ahmed ibn Tulun,* known later as Abu l'Abbas,
+children, one of which, Ahmed ibn Tulun,* known later as Abu l’Abbas,
 was the founder of the Tulunide dynasty in Egypt and Syria.
 
      * Ahmed ibn Tulun was, according to some historians, born at
      Baghdad in the year 220 of the Hegira, in the third year of
-     the reign of el-Mutasim b' Illah. Others claim Samarrah as
+     the reign of el-Mutasim b’ Illah. Others claim Samarrah as
      his birthplace. His mother, a young Turkish slave, was named
      Kassimeh, or some say, Hachimeh. Some historians have denied
      that Ahmed was the son of Tulun, one of them, Suyuti, in a
@@ -8081,16 +8082,16 @@ was the founder of the Tulunide dynasty in Egypt and Syria.
      subsequent events.
 
 Before Ahmed ibn Tulun had reached an age to take part in political
-affairs, two caliphs succeeded Mutasim b'lllah. The first was his son
+affairs, two caliphs succeeded Mutasim b’lllah. The first was his son
 Harun abu Jafar, who, upon his accession, assumed the surname el-Wathik
-b'lllah (trusting in God). Wathik carried on the traditional policy of
+b’lllah (trusting in God). Wathik carried on the traditional policy of
 continually changing the governors of the provinces, and, dying in the
 year 847, was succeeded by his half-brother Mutawakkil. In the following
 year the new caliph confided the government of Egypt to Anbasa, but
 dismissed him a few months later in favour of his own son el-Muntasir
 ibn el-Mutawakkil, whom two years afterwards the caliph named as his
 successor to the throne. El-Muntasir was to be immediately succeeded by
-his two younger brothers, el-Mutazz b'lllah and el-Mujib b'lllah.
+his two younger brothers, el-Mutazz b’lllah and el-Mujib b’lllah.
 
 Mutawakkil then proceeded to divide his kingdom, giving Africa and
 all his Eastern possessions, from the frontier of Egypt to the eastern
@@ -8105,7 +8106,7 @@ concessions he had received, el-Muntasir, anxious to commence his rule
 over the whole of the Islam empire, secretly conspired against his
 father and meditated taking his life. Finding that in Egypt he was too
 far from the scene of his intrigues, he deputed the government of that
-country to Yazid ibn Abd Allah, and returned to his father's court to
+country to Yazid ibn Abd Allah, and returned to his father’s court to
 encourage the malcontents and weave fresh plots. His evil schemes soon
 began to bear fruit, for, in the year 244 of the Hegira, his agents
 stirred up the Turkish soldiery at Damascus to insurrection on the
@@ -8133,7 +8134,7 @@ probably to poison, and his cousin Ahmed was elected to the caliphate by
 the Turkish soldiery, with the title of Mustain. During his brief reign
 the Moslems were defeated by the Byzantines at Awasia, and in 866 the
 Turkish soldiers revolted against the caliph and elected his brother
-Mutazz in his place. Mustain was, however, allowed to retire to Ma'szit.
+Mutazz in his place. Mustain was, however, allowed to retire to Ma’szit.
 He was permitted to take an attendant with him, and his choice fell upon
 Ahmed, the son of Tulun, already mentioned. Ahmed served the dethroned
 prince truly, and had no part in the subsequent murder of this unhappy
@@ -8203,7 +8204,7 @@ defeated and retreated to Barca in 880. He remained there some time
 until an army sent by Ahmed annihilated his troops and he himself was
 taken prisoner.
 
-The rebellion of his son was the turning-point in Ahmed's career: Lulu,
+The rebellion of his son was the turning-point in Ahmed’s career: Lulu,
 his general in Mesopotamia, deserted him for Muaffik, and an endeavour
 to conquer Mecca was frustrated by the unexpected resistance of numbers
 of newly arrived pilgrims. Ahmed now caused the report to be spread that
@@ -8216,34 +8217,34 @@ The emir had also besieged in vain at Tarsus his former general
 Jasman, who had become presumptuous on account of his victory over the
 Byzantines. He would eventually have made up for this defeat, but
 an illness overcame him while encamped before Tarsus. He obeyed his
-doctor's orders as little as the caliph's, and his malady, aggravated
+doctor’s orders as little as the caliph’s, and his malady, aggravated
 by improper diet, caused his death in his fifty-first year at Fostât in
 884, whither he had withdrawn. He left seventeen sons,--enough to assure
 a dynasty of a hundred years. Khumarawaih, who inherited the kingdom,
-had not many of his father's characteristics. He was a good-natured,
+had not many of his father’s characteristics. He was a good-natured,
 pleasure-loving young man, barely twenty years old, and with a marked
 distaste for war. He did, however, notwithstanding his peace-loving
-proclivities, fight the caliph's forces near Damascus, and defeat them,
+proclivities, fight the caliph’s forces near Damascus, and defeat them,
 never having seen a battle before. The emir fled from the scene in a
 panic.
 
 When Muatadid became caliph in 892, he offered his daughter Katr en-Neda
-(Dewdrop) in marriage to the caliph's son. The Arabic historians relate
+(Dewdrop) in marriage to the caliph’s son. The Arabic historians relate
 that Khuma-rawaih was fearful of assassination, and had his couch
 guarded by a trained lion, but he was finally put to death (a.h. 282),
 according to some accounts by women, and according to others by his
 eunuchs. The death of Khu-marawaih was the virtual downfall of the
 Tulunid dynasty.
 
-The officers of the army then at first made Gaish Abu'l-Asakir (one of
-Khumarawaih's sons) emir; but, when this fourteen-year-old boy seemed
+The officers of the army then at first made Gaish Abu’l-Asakir (one of
+Khumarawaih’s sons) emir; but, when this fourteen-year-old boy seemed
 incapable of anything but stupid jokes, they put his brother Harun on
 the throne. Every commanding officer, however, did as he liked. Rajib,
 the commander of the army of defence, declared himself on the side of
 the caliph, and the Syrian emirs gave themselves up to his general,
 Muhammed ibn Suleiman, without any resistance. At the close of the year
 he was before Fostât, and at the same time a fleet appeared at Damietta.
-A quarrel arose amongst Harun's body-guard, in which the unlucky prince
+A quarrel arose amongst Harun’s body-guard, in which the unlucky prince
 was killed (904). His uncle Shaiban, a worthy son of Ahmed, made a last
 stand, but was obliged to give in to the superior force.
 
@@ -8252,10 +8253,10 @@ the plundering was unrestrained, and that part of Fostât which Ahmed
 had built was almost entirely destroyed. The adherents of the reigning
 family were grossly maltreated, many of them killed, and others sent to
 Baghdad. The governors changed in rapid succession; disorder, want, and
-wretchedness existed throughout the entire country west of the caliph's
+wretchedness existed throughout the entire country west of the caliph’s
 kingdom. At this period the provinces of the empire had already fallen
 into the hands of the numerous minor princes, who, presuming on the
-caliph's weakness, had declared themselves independent sovereigns.
+caliph’s weakness, had declared themselves independent sovereigns.
 Nothing remained to the Abbasids but Baghdad, a few neighbouring
 provinces, and Egypt.
 
@@ -8342,12 +8343,12 @@ Muttaki, paid him all the homage due to an Islam sovereign, he allowed
 himself to be overruled, and accompanied Turun back to Baghdad. Hardly
 had the unfortunate caliph set foot in his capital when he was murdered,
 after reigning four years and eleven months. Turun now proclaimed
-Abd Allah Abu'l Kasim, son of Muttaki, caliph, who, after a short and
-uneventful reign, was succeeded by his uncle, Abu'l Kasim el-Fadhl,
+Abd Allah Abu’l Kasim, son of Muttaki, caliph, who, after a short and
+uneventful reign, was succeeded by his uncle, Abu’l Kasim el-Fadhl,
 who was the last of the Abbasid caliphs whom Egypt acknowledged as
 suzerains.
 
-After Muttaki's return to Baghdad, Muhammed el-Ikshid remained for some
+After Muttaki’s return to Baghdad, Muhammed el-Ikshid remained for some
 time in Damascus, and then set out for Egypt. His return was signalised
 by the war with Saif ed-Dowlah, Prince of Hamdan. The campaign was of
 varying success: After a disastrous battle, in which the Egyptians lost
@@ -8364,7 +8365,7 @@ picked men. Saif ed-Dowlah charged the vanguard and routed it, but the
 rear stood firm; this resistance saved el-Ikshid from total defeat. The
 two armies separated after a somewhat indecisive engagement, and
 Saif ed-Dowlah, who could claim no advantage save the capture of his
-adversaries' baggage, went on to Maubej, where he destroyed the bridge,
+adversaries’ baggage, went on to Maubej, where he destroyed the bridge,
 and, entering Mesopotamia, proceeded towards Rakkah; but Muhammed
 el-Ikshid was already stationed there, and the hostile armies, separated
 only by the Euphrates, faced one another for several days.
@@ -8384,7 +8385,7 @@ town of Aleppo.
 Thus we see that the year 334 of the Hegira (a. d. 946) was full
 of important events, to which was soon added the death of Muhammed
 el-Ikshid. He died at Damascus, in the last month of the year
-(Dhu'l-Kada), aged sixty, and had reigned eleven years, three months,
+(Dhu’l-Kada), aged sixty, and had reigned eleven years, three months,
 and two days. He was buried at Jerusalem. Muhammed el-Ikshid was a man
 possessing many excellent talents, and chiefly renowned as an admirable
 soldier. Brave, without being rash, quick to calculate his chances, he
@@ -8411,13 +8412,13 @@ these expenses were covered by the treasure Muhammed el-Ikshid himself
 discovered. In fact, el-Massudi, who died at Cairo in the year 346 of
 the Hegira, relates that el-Ikshid, knowing much treasure to be buried
 there, was greatly interested in the excavation of the subterraneous
-tombs of the ancient Egyptian kings. "The prince" he adds, "was
+tombs of the ancient Egyptian kings. “The prince” he adds, “was
 fortunate enough to come across a portion of those tombs, consisting of
 vast rooms magnificently decorated. There he found marvellously wrought
 figures of old and young men, women, and children, having eyes of
-precious stones and faces of gold and silver."
+precious stones and faces of gold and silver.”
 
-Muhammed el-Ikshid was succeeded by his son, Abu'l Kasim Muhammed,
+Muhammed el-Ikshid was succeeded by his son, Abu’l Kasim Muhammed,
 surnamed Ungur. The prince being only an infant, Kafur, the favourite
 minister of the late caliph, was appointed regent. This Kafur was a
 black slave purchased by el-Ikshid for the trifling sum of twenty pieces
@@ -8457,15 +8458,15 @@ sides, were defeated and forced to retreat, leaving the fortress of Rym,
 now known as Ibrim, and situated fifty miles from Syênê, in the hands of
 the Egyptians. No other events of note took place during the lifetime of
 Ungur, who, having reigned fourteen years and ten days, died in the year
-349 of the Hegira, leaving his brother Ali, surnamed Abu'l-Hasan, as his
+349 of the Hegira, leaving his brother Ali, surnamed Abu’l-Hasan, as his
 successor.
 
 [Illustration: 371.jpg MOSQUE TOMB NEAR SYENE]
 
-The reign of Abu'l-Hasan Ali, the second son of Muhammed el-Ikshid,
+The reign of Abu’l-Hasan Ali, the second son of Muhammed el-Ikshid,
 lasted but five years. His name, as that of his brother Ungur (Abu
 Hurr), is but little known in history. Kafur was also regent during the
-reign of Abu'l-Hasan Ali.
+reign of Abu’l-Hasan Ali.
 
 In the year 352 of the Hegira, Egypt was stricken with a disastrous
 famine. The rise of the Nile, which the previous year had been but
@@ -8473,7 +8474,7 @@ fifteen cubits, was this year even less, and suddenly the waters fell
 without irrigating the country. Egypt and the dependent provinces were
 thus afflicted for nine consecutive years. During this time, whilst
 the people were agitated by fear for the future, a rupture took place
-between Abu'l-Hasan Ali and Kafur. This internal disturbance was soon
+between Abu’l-Hasan Ali and Kafur. This internal disturbance was soon
 followed by war; and in the year 354 the Greeks of Constantinople,
 led by the Emperor Nicepherous Phocas, advanced into Syria. They took
 Aleppo, then in the possession of the Hamdanites, and, encountering
@@ -8481,7 +8482,7 @@ Saif ed-Dowlah, overthrew him also. The governor of Damascus, Dalim
 el-Ukazly, and ten thousand men came to the rescue of the Hamdanites,
 but Phocas beat a retreat on hearing of his approach.
 
-Abu'l-Hasan Ali died in the year 355 of the Hegira. The regent
+Abu’l-Hasan Ali died in the year 355 of the Hegira. The regent
 Kafur then ascended the throne, assuming the surname el-Ikshid. He
 acknowledged the paramount authority of the Abbasid caliph, Muti, and
 that potentate recognised his supreme power in the kingdom of Egypt.
@@ -8489,7 +8490,7 @@ During the reign of Kafur, which only lasted two years and four months,
 the greater portion of Said was seized by the Fatimites, already
 masters of Fayum and Alexandria, and the conquerors were on the point of
 encroaching still farther, when Kafur died in the year 357 a.h. Ahmed,
-surnamed Abu'l Fawaris, the son of Abu'l-Hasan Ali, and consequently
+surnamed Abu’l Fawaris, the son of Abu’l-Hasan Ali, and consequently
 grandson of Mu-hammed el-Ikshid, succeeded Kafur.
 
 The prince was only eleven years old, and therefore incapable of
@@ -8516,7 +8517,7 @@ belonged to the tribes of Koramah, who dwelt in the mountains situated
 near the town of Fez in the extreme west of Africa. In the year 269 of
 the Hegira, they began to extend their sway in the western regions of
 Africa, pursuing their conquests farther east. The Fatimite caliph Obaid
-Allah and his son Abu'l Kasim cherished designs not only upon Egypt,
+Allah and his son Abu’l Kasim cherished designs not only upon Egypt,
 but even aimed at the destruction of the Abbasid caliphate, these plans
 being so far successful as to leave the Fatimites in secure possession
 of Alexandria, and more or less in power in Fayum.
@@ -8526,7 +8527,7 @@ of the Moslem world. They traced their descent from Fatima, a daughter
 of the Prophet, whom Muhammed himself regarded as one of the four
 perfect women. At the age of fifteen she married Ali, of whom she was
 the only wife, and the partisans of Ali, as we have seen, disputed with
-Omar the right to the leadership of Islam upon the Prophet's death.
+Omar the right to the leadership of Islam upon the Prophet’s death.
 Critics are not wanting who dispute the family origin of Obaid Allah,
 but his claim appears to have been unhesitatingly admitted by his own
 immediate followers. The Fatimite successes in the Mediterranean gave
@@ -8546,7 +8547,7 @@ instance, in the coming of a Messiah, to whom they gave the name Mahdi,
 and who would one day appear on earth to establish the reign of justice,
 and revenge the wrongs done to the family of Ali. The Ismailians
 regarded Obaid himself as the Mahdi, and they also believed in
-incarnations of the "universal soul," which in former ages had appeared
+incarnations of the “universal soul,” which in former ages had appeared
 as the Hebrew Prophets, but which to the Muhammedan manifested itself as
 imans. The iman is properly the leader of public worship, but it is not
 so much an office as a seership with mystical attributes. The Muhammedan
@@ -8557,7 +8558,7 @@ were not to be taken in a literal sense. Thus the Fatimite caliphs
 founded their authority upon a combination of political power and
 superstition.
 
-Abu'l Kasim, who ruled at Alexandria, was succeeded in 945 by his son,
+Abu’l Kasim, who ruled at Alexandria, was succeeded in 945 by his son,
 El-Mansur. Under his reign the Fatimites were attacked by Abu Yazid, a
 Berber, who gathered around him the Sunnites, and the revolutionaries
 succeeded in taking the Fatimite capital Kairwan. El-Mansur, however,
@@ -8568,7 +8569,7 @@ Dying in 953, he was succeeded by Muiz ad-Din.
 Muiz came to the throne just at the time when dissensions as to the
 succession were undermining the Ikshid dynasty. Seizing the opportunity
 in the year 969, Muiz equipped a large and well-armed force, with a
-formidable body of cavalry, the whole under the command of Abu'l-Husain
+formidable body of cavalry, the whole under the command of Abu’l-Husain
 Gohar el-Kaid, a native of Greece and a slave of his father El-Mansur.
 This general, on his arrival near Alexandria, received a deputation from
 the inhabitants of Fostât charged to negotiate a treaty. Their overtures
@@ -8601,7 +8602,7 @@ year 365 a.h. He is described as a warlike and ambitious prince, but,
 notwithstanding, he was especially distinguished for justice and was
 fond of learning. He showed great favour to the Christians, especially
 to Severus, Bishop of El-Ashmunein, and the patriarch Ephrem; and under
-his orders, and with his assistance, the church of the Mu'allakah,
+his orders, and with his assistance, the church of the Mu’allakah,
 in Old Misr, was rebuilt. He executed many useful works (among others
 rendering navigable the Tanitic branch of the Nile, which is still
 called the canal of Muiz), and occupied himself in embellishing Cairo.
@@ -8621,7 +8622,7 @@ campaign, Aziz took command in person, and, meeting the enemy at Ramleh,
 was victorious after a bloody battle; while El-Eftekeen, being betrayed
 into his hands, was with Arab magnanimity received with honour and
 confidence, and ended his days in Egypt in affluence. Aziz followed his
-father's example of liberality. It is even said that he appointed a Jew
+father’s example of liberality. It is even said that he appointed a Jew
 his vizier in Syria, and a Christian to the same post in Egypt. These
 acts, however, nearly cost him his life, and a popular tumult obliged
 him to disgrace both these officers. After a reign of twenty-one years
@@ -8635,9 +8636,9 @@ Hakim Abu Ali Mansur commenced his reign, according to Moslem
 historians, with much wisdom, but afterwards acquired a reputation for
 impiety, cruelty, and unreasoning extravagance, by which he has been
 rendered odious to posterity. He is said to have had at the same time
-"courage and boldness, cowardice and timorousness, a love for learning
+“courage and boldness, cowardice and timorousness, a love for learning
 and vindictiveness towards the learned, an inclination to righteousness
-and a disposition to slay the righteous." He also arrogated to himself
+and a disposition to slay the righteous.” He also arrogated to himself
 divinity, and commanded his subjects to rise at the mention of his name
 in the congregational prayers, an edict which was obeyed even in the
 holy cities, Mecca and Medina. He is most famous in connection with the
@@ -8666,26 +8667,26 @@ the appointed day to the desert tract southward of Cairo, where Hakim,
 unattended, was in the habit of riding, and waylaid him near the village
 of Helwan, where they put him to death.
 
-Within a week Hakim's son Ali had been raised to the caliphate with
+Within a week Hakim’s son Ali had been raised to the caliphate with
 the title of Dhahir, at the command of Sitt el-Mulk. As Dhahir was only
 eighteen years old, and in no way educated for the government, Sitt
 el-Mulk took the reins of government, and was soon looked upon as the
-instigator of Hakim's death. This suspicion was strengthened by the
+instigator of Hakim’s death. This suspicion was strengthened by the
 fact that his sister had the heir to the throne--who was at that time
 governor of Aleppo--murdered, and also the chief who had conspired with
 her in assassinating Hakim. She survived her brother for about four
 years, but the actual ruler was the Vizier Ali el-Jar jar.
 
-Dhahir's reign offers many points of interest. Peace and contentment
+Dhahir’s reign offers many points of interest. Peace and contentment
 reigned in the interior, and Syria continued to be the chief point of
 interest to the Egyptian politics. Both Lulu and his son Mansur, who
 received princely titles from Hakim, recognised the suzerainty of the
-Fatimites. Later on a disagreement arose between Lulu's son and Dhahir.
-One of the former's slaves conspired against his master, and gave Aleppo
+Fatimites. Later on a disagreement arose between Lulu’s son and Dhahir.
+One of the former’s slaves conspired against his master, and gave Aleppo
 into the hands of the Fatimites, whose governor maintained himself there
 till 1023. In this year, however, Aleppo fell into the power of the Benu
 Kilab, who defended the town with great success against Romanus in
-1030. Not till Dhahir's successor came to the throne in 1036 was Aleppo
+1030. Not till Dhahir’s successor came to the throne in 1036 was Aleppo
 reconquered by the Fatimites, but only to fall, after a few years, again
 into the hands of a Kilabite, whom the caliph was obliged to acknowledge
 as governor until he of his own free will exchanged the city for several
@@ -8702,11 +8703,11 @@ recognised as lord of Africa, Sicily, Arabia, Mesopotamia, and even of
 the Abbassid capital, Baghdad. A few days later his dominion was again
 on the point of being extinguished. The murder of a Turk by the negroes
 led to a war between the Turkish mercenaries and the blacks who formed
-the caliph's body-guard. The latter were joined by many of the other
+the caliph’s body-guard. The latter were joined by many of the other
 slaves, but the Turks were supported by the Ketama Berbers and some of
 the Bedouin tribes, and also the Hamdanite Nasir ed-Dowlah, who had
 long been in the Egyptian service. The blacks, although supported by the
-caliph's mother, were completely defeated, and the caliph was forced to
+caliph’s mother, were completely defeated, and the caliph was forced to
 acknowledge the authority of Nasir ed-Dowlah. He thereupon threatened
 to abdicate, but when he learned that his palace with all its treasures
 would then be given up to plunder, he refrained from fulfilling his
@@ -8723,7 +8724,7 @@ by the Sunnites, simply because they had been written by the Shiites;
 still others were burnt by the Turks as worthless material, and the
 leather bands which held them made into sandals.
 
-[Illustration: 383.jpg MUSTANSSIR'S GATE AT CAIRO]
+[Illustration: 383.jpg MUSTANSSIR’S GATE AT CAIRO]
 
 Meanwhile war between Mustanssir and Nasir ed-Dowlah continued to be
 waged in Egypt and Syria, until at last the latter became master of
@@ -8746,7 +8747,7 @@ state was increased under his excellent government.
 
 Bedr remained at his post till his death, and his son El-Afdhal was
 appointed by Mustanssir to succeed him. Upon the death of Mustanssir
-(1094), his successor El-Mustali Abu'l Kasim retained El-Afdhal in
+(1094), his successor El-Mustali Abu’l Kasim retained El-Afdhal in
 office. He was afterwards murdered under Emir (December, 1121) because,
 according to some, he was not a zealous enough Shiite, but, according
 to others, because the caliph wished to gain possession of the enormous
@@ -8754,8 +8755,8 @@ treasures of the vizier and to be absolutely independent. Emir was
 also murdered (October 7, 1130), and was succeeded by his cousin, who
 ascended the throne under the name of Hafiz, and appointed a son of
 El-Afdhal as vizier, who, just as his father had done, soon became the
-real ruler, and did not even allow the caliph's name to be mentioned in
-the prayers; whereupon he also was murdered at the caliph's instigation.
+real ruler, and did not even allow the caliph’s name to be mentioned in
+the prayers; whereupon he also was murdered at the caliph’s instigation.
 After other viziers had met with a similar fate, and amongst them a son
 of the caliph himself, at last Hafiz ruled alone. His son and successor,
 Dhafir (1149-1150), also frequently changed his viziers because they
@@ -8816,8 +8817,8 @@ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
 
@@ -8836,7 +8837,7 @@ Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B.  “Project Gutenberg” is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement.  There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -8846,8 +8847,8 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
+1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
+ or PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg-tm electronic works.  Nearly all the individual works in the
 collection are in the public domain in the United States.  If an
 individual work is in the public domain in the United States and you are
@@ -8877,8 +8878,8 @@ States.
 1.E.1.  The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
+phrase “Project Gutenberg” appears, or with which the phrase “Project
+Gutenberg” is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -8891,7 +8892,7 @@ from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
 or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
+with the phrase “Project Gutenberg” associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
@@ -8918,11 +8919,11 @@ Gutenberg-tm License.
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
+“Plain Vanilla ASCII” or other format used in the official version
 posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
+request, of the work in its original “Plain Vanilla ASCII” or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 
@@ -8944,8 +8945,8 @@ that
      prepare (or are legally required to prepare) your periodic tax
      returns.  Royalty payments should be clearly marked as such and
      sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+     address specified in Section 4, “Information about donations to
+     the Project Gutenberg Literary Archive Foundation.”
 
 - You provide a full refund of any money paid by a user who notifies
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -8977,14 +8978,14 @@ effort to identify, do copyright research on, transcribe and proofread
 public domain works in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
 works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
+“Defects,” such as, but not limited to, incomplete, inaccurate or
 corrupt data, transcription errors, a copyright or other intellectual
 property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
@@ -9011,7 +9012,7 @@ is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
 1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -9044,7 +9045,7 @@ because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
+assistance they need, is critical to reaching Project Gutenberg-tm’s
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -9060,18 +9061,18 @@ Foundation
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
+Revenue Service.  The Foundation’s EIN or federal tax identification
 number is 64-6221541.  Its 501(c)(3) letter is posted at
 http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+permitted by U.S. federal laws and your state’s laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
+The Foundation’s principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at
 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
+information can be found at the Foundation’s web site and official
 page at http://pglaf.org
 
 For additional contact information:
